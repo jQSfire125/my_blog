@@ -10,7 +10,7 @@ At first, I was intimidated by how fast they jump into machine learning, buildin
 
 I was also watching a video by [Joma Tech][joma] where he talks about the whole data science pipeline, what he calls the Data Science Hierarchy of Needs:
 
-![Data Science Hierarchy of Needs](/assets/images/dshierarchy.png)
+![Data Science Hierarchy of Needs](/my_blog/assets/images/dshierarchy.png)
 
 It is about how the job of a data scientist / analyst / engineer can mean many different things in different companies, and how there is often times a disconnect between what is talked about in data science articles or videos, and what the requierements of a company actually are.
 

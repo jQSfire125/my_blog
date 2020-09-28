@@ -18,7 +18,7 @@ As part of the class, one has to open a GitHub account. I am now [jQSfire125][jQ
 
 I am just discovering this brand new world, full of really cool tools. I even picked an octocat design with my daughter for my GitHub avatar:
 
-![Octocat](/assets/images/octocat.png)
+![Octocat](/my_blog/assets/images/octocat.png)
 
 [cs50]: https://cs50.harvard.edu/x/2020/
 [edx]: https://www.edx.org/

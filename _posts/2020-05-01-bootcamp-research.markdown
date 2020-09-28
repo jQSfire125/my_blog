@@ -24,7 +24,7 @@ It is really cool that one can spend a few months studying programming online an
 
 From what I have been able to understand, software engineering and fullstack web are very similar. Data Science seems very interesting:
 
-![Data Science](/assets/images/datascience.jpg)
+![Data Science](/my_blog/assets/images/datascience.jpg)
 
 I believe I am competitive in two of the 3 areas, and I really want to grow in the third:
 
