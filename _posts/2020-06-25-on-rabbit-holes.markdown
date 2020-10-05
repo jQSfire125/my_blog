@@ -8,7 +8,7 @@ Wow, sometimes one can get really deep down the rabbit hole of trying to make a 
 
 I have been trying, unsucessfully, to install this program called [jekyll][jekyll], so I can create my blog and then upload it to my GitHub. 
 
-The problem is that for every step in the process, I need to catch up with other things I do not yet understand, which then opens another door where I need to understand that, and so on and so forth.
+The problem is that for every step in the process, I need to catch up with other things I do not yet understand, which then opens another door where I need to understand that, and so on.
 
 I keep getting this error:
 
