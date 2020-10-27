@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Data Scientist"
-date:   2020-10-17 18:16:05 -0500
-categories: update, machine learning
+date:   2020-10-17 20:16:05 -0500
+categories: update
 ---
 Today I finished the Data Scientist with Python Career Track in Data Camp! 23 courses and 6 projects, an estimated 88 hours of instruction. It took me 5 months.
 
