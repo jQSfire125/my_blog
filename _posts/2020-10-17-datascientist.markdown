@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Data Scientist"
-date:   2020-10-17 20:16:05 -0500
-categories: update
+date:   2020-10-17 18:16:05 -0500
+categories: update, machine learning
 ---
 Today I finished the Data Scientist with Python Career Track in Data Camp! 23 courses and 6 projects, an estimated 88 hours of instruction. It took me 5 months.
 
@@ -20,9 +20,9 @@ I am very happy I stumbled onto DataCamp and I really enjoy their system. There 
 
 I am a little bit embarrassed by my score on Data Manipulation, but I will take the assessments again in a couple of months, and see how I improve...
 
-After finishing, I enrolled in the next step in the Machine Learning Scientist with Python Track. It is also 23 courses with 93 hours of instruction. I will try to finish it by the end of the year. I am exited because it includes scikit-learn, TensorFlow, Keras, and PySpark. 
+After finishing, I enrolled in the Machine Learning Scientist with Python Track. It is also 23 courses with 93 hours of instruction. I will try to finish it by the end of the year. I am exited because it includes scikit-learn, TensorFlow, Keras, and PySpark. 
 
-One more step in my [syllabus][blog RM Masters]. =)
+One more step in my [path][blog RM Masters]. =)
 
 
 [blog RM Masters]: https://jqsfire125.github.io/my_blog/update/2020/07/05/rm-masters.html
