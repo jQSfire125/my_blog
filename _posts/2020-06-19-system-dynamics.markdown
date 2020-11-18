@@ -12,7 +12,7 @@ This week we are finishing the last one! Due to the pandemic, it was delivered o
 
 System Dynamics is a really interesting field with very powerful applications in business. It is based on the analysis of complex systems, which are systems where there is a delay between the actions taken and the effects of those actions. 
 
-For example, take the pandemic. The actions government officials take today like closing down businesses or restricting travel will have effect 2-3 weeks or more from now. And the effects we read about in the news (cases, deaths) are the result of conditions two to six weeks ago. So it is entirely possible that things get worse, even after restrictions have been implemented and for some people it seems that the actions are not working, when in reality it is just the case that they have not had time to work. 
+For example, take the pandemic: The actions government officials take today like closing down businesses or restricting travel will have effect 2-3 weeks or more from now. And the effects we read about in the news (cases, deaths) are the result of conditions two to six weeks ago. So it is entirely possible that things get worse, even after restrictions have been implemented and for some people it seems that the actions are not working, when in reality it is just the case that they have not had time to work. 
 
 With the proper framework, one can make better decisions, and many times the proper course of action is quite unintuitive.
 

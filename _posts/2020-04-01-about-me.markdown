@@ -19,4 +19,4 @@ I have decided that I will take advantage of the changes brought on by the Covid
 
 A couple days ago I received a text inviting me to sign up for an online and free version of CS 106A, the iconic undergrad introductory computer science course at Stanford. 
 
-I have always loved learning, computers, and solving thought problems. I am at a stage in my life where I want to focus more on what I want to do, what I enjoy doing, than on a title or a salary. I am very happy to start this new path..
+* I have always loved learning, computers, and solving thought problems. I am at a stage in my life where I want to focus more on what I want to do, what I enjoy doing, than on a title or a salary. I am very happy to start this new path..

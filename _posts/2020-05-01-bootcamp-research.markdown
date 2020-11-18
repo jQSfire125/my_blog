@@ -23,9 +23,9 @@ I am also starting to get a better understanding of the whole wide world of prog
 It is really cool that one can spend a few months studying programming online and then be able to get a job as a programmer. It is also encouraging that a lot of the bootcamps offer the possibility of charging for the tuition payments once you get a job, it must open doors for people who can not afford it.
 
 From what I have been able to understand, software engineering and fullstack web are very similar. Data Science seems very interesting:
-
+<br>
 ![Data Science](/my_blog/assets/images/datascience.jpg)
-
+<br>
 I believe I am competitive in two of the 3 areas, and I really want to grow in the third:
 
 * Domain / Buisness Knowledge - 20 years of business experience, strategy, entrepreneurship.

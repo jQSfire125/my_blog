@@ -6,7 +6,7 @@ categories: update
 ---
 I am trying to learn Python, so I was at the [learnpython.org][lporg] website and I stumbled onto [DataCamp][datacamp].
 
-I tried the free parts and resisted upgrading at first, but finally gave in and bought a yearly subscription. I am very glad I did. It is a great site, with hundreds of quality courses, and the format really works for me. 
+I tried the free parts and resisted upgrading at first, but finally gave in and bought a yearly subscription. I am very glad I did! It is a great site, with hundreds of quality courses, and the format really works for me. 
 
 You normally have 4 modules per course. Each module consists of a series of short videos followed by a few exercises. Each course is around 4 hours long.
 
