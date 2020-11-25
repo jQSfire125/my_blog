@@ -17,3 +17,4 @@ Talking of CS50, I have until December 31st at midnight to finish the course in 
 Also, I have just finished course 5 of the HarvardX certificate program: Productivity Tools. They cover Unix, git, and GitHub among other things. It is nice that now I understand better some of the commands I used to get this blog onto GitHub. At the time I was just crossing my fingers hoping I copied the instructions right hehe.
 
 I have to say that I am really enjoying this journey. Every day I find myself looking forward to work on my courses when I get some free time from work. It is normally the best part of my workday.
+
