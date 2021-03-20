@@ -8,7 +8,7 @@ I am very happy to share that I have finally managed to install Jekyll and get t
 
 With Jekyll installed, all I have to do now is recreate the posts from what I have been writing in Evernote, figure out a bit of markdown for formatting, and learn how to upload the blog to the GitHub repository to set it free.. 
 
-I am so happy! It feels great when one can get past a vexing roadblock like that: 
+I am so happy!! It feels great when one can get past a vexing roadblock like that: 
 
 ### Mr. Jekyll, I warned you, you could not win    ;)
 

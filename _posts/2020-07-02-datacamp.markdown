@@ -14,11 +14,11 @@ I enrolled in the Data Scientist With Python Career Track. It has 23 courses and
 
 I am still not sure if I will eventually enroll in a bootcamp or a masters degree online, but for now this is a great way to keep learning and also to test my intuition about data science.
 
-I also recently stumbled onto [3brown1blue][3b1b]. 
+I also recently stumbled onto [3Blue1Brown][3b1b]. 
 
 What an amazing youtube channel! One has to be absolutely greatful there are people in this world like Grant Sanderson who are just so smart and so generous in teaching the rest of us about things like linear algebra and neural networks. The videos are amazing. He really does an great job of making these concepts easy to understand. Thank you Mr. Sanderson!
 
 
 [lporg]: https://www.learnpython.org/en/Welcome
 [datacamp]: https://www.datacamp.com/
-[3b1b]: https://www.youtube.com/c/3blue1brown/featured
+[3b1b]: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw

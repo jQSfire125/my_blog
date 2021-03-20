@@ -21,7 +21,7 @@ I am already starting to get comfortable with a few of them, and lists like this
 
 I have started reading some articles in [Medium](https://medium.com) about data science. It is a really good publication. I like a lot and I have just finished reading an article on activation functions for neural networks, and they make a lot more sense to me now.
 
-Finally, I have decided to enroll in the Professional Certificate in data science offered by [HarvardX][dscert] on [edX](https://www.edx.org). It is a nine course series, and the cool thing is that it is based in R, so it will complement what I have been learning in Python very well.
+Finally, I have decided to enroll in the Professional Certificate in Data Science offered by [HarvardX][dscert] on [edX](https://www.edx.org). It is a nine course series, and the cool thing is that it is based in R, so it will complement what I have been learning in Python very well.
 
 I have been researching different courses for my next steps, and I think it will help to get some kind of formal certificate on top of the other courses I am taking. It is amazing how many quality courses by top universities are available in edX and Coursera. If you add that MIT has its whole curriculum available for free online, it is mind blowing how accesible all this knowledge is nowadays.
 

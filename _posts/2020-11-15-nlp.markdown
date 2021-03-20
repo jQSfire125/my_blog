@@ -8,7 +8,7 @@ Today I started an intro to NLP course on DataCamp. It is part of the Machine Le
 
 I like NLP, it seems really cool. It is also harder for me than other machine learning methods. I don't know why, but regression and classification models seem a lot more intuitive than bags of words and TF-IDF. 
 
-This is not the first time they use TF-IDF on the courses I take in DataCamp, they actually have used the method in a few courses. And the more I see it the more familiar it becomes. I guess I habe been just more used to using numbers than sentences. 
+This is not the first time they use TF-IDF on the courses I take in DataCamp, they actually have used the method in a few courses. And the more I see it the more familiar it becomes. I guess I have just been more used to using numbers than sentences. 
 
 I am also taking a SQL course in Kaggle. It uses BigQuery by Google (Kaggle being a Google property) so it is a bit different than the SQLite I have learned so far in CS50. 
 
