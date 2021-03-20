@@ -11,4 +11,4 @@ R is a powerful language, and some of the things you can do with a few lines of 
 
 This course is the setup for course 8 that focuses on machine learning. I am really looking forward to that one. 
 
-After that it is just the Capstone Project in course 9 and I will be done with the HarvardX Professional Certificate in Data Science. Yeah!
+After that, it is just the Capstone Project in course 9 and I will be done with the HarvardX Professional Certificate in Data Science. Yeah!
