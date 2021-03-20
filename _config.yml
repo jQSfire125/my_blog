@@ -21,7 +21,7 @@
 title: My journey into data science
 email: rmontemayor@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A 45 year old's stumbles and strides in the world of data science..
+  A 46 year old's stumbles and strides in the world of data science..
 baseurl: "my_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rmontemayor
