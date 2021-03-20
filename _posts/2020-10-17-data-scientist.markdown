@@ -22,7 +22,7 @@ I am a little bit embarrassed by my score on Data Manipulation, but I will take 
 
 After finishing, I enrolled in the Machine Learning Scientist with Python Track. It is also 23 courses with 93 hours of instruction. I will try to finish it by the end of the year. I am exited because it includes scikit-learn, TensorFlow, Keras, and PySpark. 
 
-One more step in my [path][blog RM Masters]. =)
+#### One more step in my [path][blog RM Masters]
 
 
 [blog RM Masters]: https://jqsfire125.github.io/my_blog/update/2020/07/05/rm-masters.html

@@ -24,7 +24,6 @@ So, I have decided that this is going to be my path. I hereby present to you the
 * Foundations
 	* CS50 on edX
 	* Codecademy Code Foundations
-	* Codecademy Developer Tools
 	* DataCamp shell and git courses
 * Data Science / Machine Learning
 	* DataCamp Data Scientist With Python Track
@@ -33,8 +32,8 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* DataCamp Python Programming Skill Track
 	* HarvardX Data Science Professional Certificate on edX
 	* Kaggle courses 
-	* Kaggle competitions (achieve expert status)
-	* Google Associate Cloud Engineer Certification
+	* Kaggle competitions (aim for expert status)
+	* Google Certified Associate Cloud Engineer
 	* Google Machine Learning Crash Course
 	* Fast.ai Machine Learning Course
 	* UM Applied Data Science with Python on Coursera
@@ -58,7 +57,7 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* The Hundred-Page Machine Learning Book by Andriy Burkov
 	* Information Theory, Inference and Learning Algorithms by David MacKay
 
-This list can be greatly expanded, and that is what will happen as I finish courses and keep learning. I will also be modifying it and updating it as I learn more. It is great to have a roadmap for this journey!
+This list can be greatly expanded, and that is what will happen as I finish courses and keep learning. I will also be modifying it and updating it as I learn more. It is great to finally have a roadmap for this journey!
 
 [danbourke]: https://www.mrdbourke.com/aimastersdegree/
 

@@ -17,7 +17,7 @@ It turns out Professor David Malan and Brian Yu offer a companion course to CS50
 
 Together, these two courses form the "Professional Certificate in Computer Science for Artificial Intelligence" from HarvardX. I want to start that second course as soon as I am done with the DataCamp and HarvadX Data Science courses.
 
-The journey continues..
+#### The journey continues..
 
 [youtube video]: https://youtu.be/Vg3lJGAUAaU
 [GB]: https://goodbudget.com

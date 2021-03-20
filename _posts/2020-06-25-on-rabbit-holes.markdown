@@ -12,7 +12,7 @@ The problem is that for every step in the process, I need to catch up with other
 
 I keep getting this error:
 
->  You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory 
+`You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory` 
 
 Are you kidding me? Isn't this **MY** computer? If I don't have permission, **WHO** does?
 
@@ -24,6 +24,6 @@ So, I think I need to learn more about the command-line and what exactly a `PATH
 
 I am afraid I will accidentally break something that I do not know yet how to fix. In the meantime, I will keep these blog posts offline, until I can defeat this Jekyll guy and get it to run.
 
-### Mr. Jekyll you have been warned, I will win... have no doubt about it.
+#### Mr. Jekyll you have been warned, I will win... have no doubt about it.
 
 [jekyll]: https://jekyllrb.com

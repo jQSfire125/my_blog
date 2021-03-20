@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DataCamp"
+title:  "Data Camp"
 date:   2020-07-02 09:35:39 -0500
 categories: update
 ---
@@ -16,7 +16,9 @@ I am still not sure if I will eventually enroll in a bootcamp or a masters degre
 
 I also recently stumbled onto [3Blue1Brown][3b1b]. 
 
-What an amazing youtube channel! One has to be absolutely greatful there are people in this world like Grant Sanderson who are just so smart and so generous in teaching the rest of us about things like linear algebra and neural networks. The videos are amazing. He really does an great job of making these concepts easy to understand. Thank you Mr. Sanderson!
+What an amazing youtube channel! One has to be absolutely greatful there are people in this world like Grant Sanderson who are just so smart and so generous in teaching the rest of us about things like linear algebra and neural networks. The videos are amazing. He really does an great job of making these concepts easy to understand. 
+
+#### Thank you Mr. Sanderson!
 
 
 [lporg]: https://www.learnpython.org/en/Welcome

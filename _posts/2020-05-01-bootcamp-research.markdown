@@ -4,9 +4,9 @@ title:  "Bootcamp research"
 date:   2020-05-01 09:45:11 -0500
 categories: update
 ---
-I am on my 3rd week on CS50, and it is starting to get hard. Recursion is really crazy. I am starting to think I am not as smart as I thought =p
+I am on my third week on CS50, and it is starting to get hard. Recursion is really crazy. I am starting to think I am not as smart as I thought..
 
-Hats off to all computer scientists out there. 
+#### Hats off to all computer scientists out there. 
 
 On the easier side, I have been doing a bunch of Apple's Swift Playgrounds puzzles. I really like how engaging they make them.
 
@@ -23,11 +23,15 @@ I am also starting to get a better understanding of the whole wide world of prog
 It is really cool that one can spend a few months studying programming online and then be able to get a job as a programmer. It is also encouraging that a lot of the bootcamps offer the possibility of charging for the tuition payments once you get a job, it must open doors for people who can not afford it.
 
 From what I have been able to understand, software engineering and fullstack web are very similar. Data Science seems very interesting:
-<br>
+
+
+
 ![Data Science](/my_blog/assets/images/datascience.jpg)
-<br>
+
+
+
 I believe I am competitive in two of the 3 areas, and I really want to grow in the third:
 
-* Domain / Buisness Knowledge - 20 years of business experience, strategy, entrepreneurship.
-* Math & Statistics - As an engineer, I have a strong foundation.
-* Computer Science / IT - Here all I have is a strong affinity, but I'm really enjoying learning.
+* **Domain / Buisness Knowledge** - 20 years of business experience, strategy, entrepreneurship.
+* **Math & Statistics** - As an engineer, I have a strong foundation.
+* **Computer Science / IT** - Here all I have is a strong affinity, but I'm really enjoying learning.

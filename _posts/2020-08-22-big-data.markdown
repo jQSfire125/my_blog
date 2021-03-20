@@ -12,19 +12,19 @@ It was reassuring to hear that it is not necessary to master all infrastructure 
 
 On the courses side, I am currently taking the following ones:
 
-* DataCamp Data Scientist with Python. 
-	* I have completed 12 courses and have 11 more to go.
-* CS50 on edX. 
-	* I am working on Problem Set 5. I have neglected it a bit lately, but I can still finish by December.
-* Kaggle. 
-	* 4 courses down, 11 to go.
-* HarvardX Professional Certificate in Data Science.
-	* I am about to finish the second course out of nine.
+* DataCamp Data Scientist with Python.   
+I have completed 12 courses and have 11 more to go.
+* CS50 on edX.  
+I am working on Problem Set 5. I have neglected it a bit lately, but I can still finish by December
+* Kaggle.  
+4 courses down, 11 to go.
+* HarvardX Professional Certificate in Data Science.  
+I am about to finish the second course out of nine.
 	
 By December, I think I will be able to finish both of my DataCamp's career tracks: Data Scientist With Python and Machine Learning With Python. I also plan to have finished all the Kaggle courses and CS50.
 
-As for the HarvardX Professional Certificate in data science, there are 9 courses and if I continue at my current rate, I will finish by December. But maybe some of the future courses will get harder and maybe push completion to January. It is still great because on the [website](https://www.edx.org/professional-certificate/harvardx-data-science) it says it takes 17 months, and I believe I will finish in six.
+As for the HarvardX Professional Certificate in data science, there are 9 courses and if I continue at my current rate, I will finish by December. But maybe some of the future courses will get harder and maybe push completion to next year. It is still great because on the [website](https://www.edx.org/professional-certificate/harvardx-data-science) it says it takes 17 months, and I believe I will finish in seven or eight.
 
-I also want to share that I submitted the paperwork for my work permit in mid July. Right now it is hard to tell how long it takes, so we'll just have to wait patiently and see how that goes. Wish me luck!
+I also want to share that I submitted the paperwork for my green card in July. With everything goig on right now it is hard to tell how long it will take, so I'll just have to wait patiently and see how it goes. Wish me luck!
 
  

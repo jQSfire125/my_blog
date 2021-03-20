@@ -10,6 +10,6 @@ It is a bit like Logo, a program they had us play with at camp when I was 7.
 
 In the meantime, I just received my Scrum Master and Scrum Product Owner certifications from the [International Scrum Institute][isc].
 
-The first step in my journey =)
+#### The first step in my journey =)
 
 [isc]: http://WWW.SCRUM-INSTITUTE.ORG

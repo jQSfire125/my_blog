@@ -10,7 +10,7 @@ With Jekyll installed, all I have to do now is recreate the posts from what I ha
 
 I am so happy!! It feels great when one can get past a vexing roadblock like that: 
 
-### Mr. Jekyll, I warned you, you could not win    ;)
+#### Mr. Jekyll, I warned you, you could not win    ;)
 
 On a different note, I was reading an article on Medium by Benedict Neo about his [top 20][top20] machine learning and data science websites. Thank you Benedict. 
 
