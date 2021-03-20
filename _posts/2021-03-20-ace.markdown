@@ -18,7 +18,9 @@ I had already learned every one of the libraries used in this project at Data Ca
 
 An very cool feature is that the projects are done in your own machine, using the [Anaconda][anaconda] distribution of the libraries, and doing the code in [Jupyter][jupiter] notebooks. Up to now, everything I had done in Python was either in the CS50 web IDE or on the Data Camp site, where you run the code on the browser.  
 
-I am starting to believe that little by littel I am becoming a Data Scientist. Level 0, mind you, but a Data Scientist none the less. Let's keep it going!
+I am starting to believe that little by littel I am becoming a Data Scientist. Level 0, mind you, but a Data Scientist none the less. 
+
+#### Let's keep it going!
 
 [acg]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
 [eds]: https://elitedatascience.com
