@@ -4,11 +4,11 @@ title:  "Associate Cloud Engineer"
 date:   2021-03-20 12:37:44 -0500
 categories: update
 ---
-I am very happy to report that I recently received my work permit. It is a one-year permit while the Green Card process is complete. I will transition at Strata (my current company) to more of an advisory role by the end of May. And I will start looking for a position in the DS field by then.
+I am very happy to report that I recently received my work permit. It is a one year permit that is valid until the Green Card process is complete. I will transition at Strata (my current company) to an advisory role by the end of May. And I will start looking for a position in the DS field by then.
 
 As part of that exploration, I talked to a really nice guy who graduated a couple of years ago from a data science masters at Berkley. He suggested I start learning more about the Google cloud platform. 
 
-I really trust his advice and I signed up for the Google Certified Associate Cloud Engineer course at [A Cloud Guru][acg]. After the course one can take the certification exam. We'll see how it goes..
+I trust his advice and have since signed up for the Google Certified Associate Cloud Engineer course at [A Cloud Guru][acg]. After the course one can take the certification exam. We'll see how it goes..
 
 On the data science front, it turns out the [Elite Data Science][eds] course is just **excellent**, and it is exactly what I needed to cement what I have learned so far and to put it all together. Yesterday I finished the third module. It was a real estate prices machine learning project from start to finish. 
 
