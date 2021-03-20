@@ -12,7 +12,7 @@ I trust his advice and have since signed up for the Google Certified Associate C
 
 On the data science front, it turns out the [Elite Data Science][eds] course is just **excellent**, and it is exactly what I needed to cement what I have learned so far and to put it all together. Yesterday I finished the third module. It was a real estate prices machine learning project from start to finish. 
 
-I had already learned every one of the libraries used in this module at Data Camp, but this program has a great structure and it brings together the different tools in very practical, streamlined and results-oriented way. I feel like I am learning the way one would in an actual DS job, with a more senior practicioner sitting next to you and guiding you through the project from start to finish.  
+I had already learned in Data Camp every one of the libraries used in the project, but this program structures together the different tools in very practical, streamlined and results-oriented way. I feel like I am learning the way one would in an actual DS job, with a more senior practicioner sitting next to you and guiding you through the project from start to finish.  
 
 #### I really recommend this program.  
 
