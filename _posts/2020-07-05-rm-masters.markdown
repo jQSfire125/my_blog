@@ -31,9 +31,10 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* DataCamp Machine Learning Scientist With Python Track
 	* DataCamp SQL Fundamentals Skill Track
 	* DataCamp Python Programming Skill Track
-	* HarvarX Data Science Professional Certificate on edX
+	* HarvardX Data Science Professional Certificate on edX
 	* Kaggle courses 
 	* Kaggle competitions (achieve expert status)
+	* Google Associate Cloud Engineer Certification
 	* Google Machine Learning Crash Course
 	* Fast.ai Machine Learning Course
 	* UM Applied Data Science with Python on Coursera
