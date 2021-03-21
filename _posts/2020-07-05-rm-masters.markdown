@@ -18,7 +18,7 @@ I completely agree with him. There are just so many good courses and resources o
 
 So, I have decided that this is going to be my path. I hereby present to you the:
 
- **Rogelio Montemayor Masters Degree in Data Science and Machine Learning**:
+####Rogelio Montemayor's Masters Degree in Data Science and Machine Learning:
 
 * Main Courses:
 * Foundations

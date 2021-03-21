@@ -18,7 +18,7 @@ With the proper framework, one can make better decisions, and many times the pro
 
 So, with today's course Emilio and I have completed the necessary courses to receive an Executive Certificate in Technology, Operations, and Value Chain Management. Yes!!
 
-I want to especially thank professor [John Sterman][jsmit], he is one of the best professors I have ever met. He is an inspiration and an amazing human being. Our world definitely needs more people like him. Thank you professor.
+I want to especially thank Professor [John Sterman][jsmit], he is one of the best professors I have ever met. He is an inspiration and an amazing human being. Our world definitely needs more people like him. Thank you Professor.
 
 One of my classmates in the course works in cybersecurity, and I called him one day to get his opinion on my transition and education plan. He suggested starting this blog, so in the future I can share the type of problems I can solve, to share my development journey. Thanks Jim.
 
