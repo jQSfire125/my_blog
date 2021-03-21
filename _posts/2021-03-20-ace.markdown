@@ -16,13 +16,11 @@ Yesterday I finished the third module in which we built a machine learning model
 
 I had already learned in Data Camp every one of the libraries used in the project, but this program structures together the different tools in very practical, streamlined and results-oriented way. I feel like I am learning the way one would in an actual DS job, with a more senior practicioner sitting next to you and guiding you through the project from start to finish.  
 
-#### I really recommend this program.  
+#### I sincerely recommend this program.  
 
 A very cool feature is that the projects reside in your own machine, using the [Anaconda][anaconda] distribution of the software, and runing the code in [Jupyter][jupiter] notebooks. Up to now, everything I had done in Python was either on the CS50 web IDE or on the Data Camp site, where you run the code on the browser.
 
-I am starting to believe that little by litte I am becoming a Data Scientist. Level 0, mind you, but a Data Scientist nonetheless. 
-
-#### Let's keep it going!
+I am starting to believe that little by litte I am becoming a Data Scientist. Level 0, mind you, but a Data Scientist nonetheless. Let's keep it going!
 
 [acg]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
 [eds]: https://elitedatascience.com
