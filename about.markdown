@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Rogelio Montemayor
 
-I was born and raised in Mexico. I am 46 years old. I studied civil engineering at Monterrey Tech (ITESM) in Mexico, then worked for BCG, a management consulting company, and then went on to get an MBA at the Stanford Graduate School of Business.
+I was born and raised in Mexico. I studied civil engineering at Monterrey Tech (ITESM) in Mexico, then worked for BCG, a management consulting company, and then went on to get an MBA at the Stanford Graduate School of Business.
 
 Since then I have worked in real estate, mining and energy. I am currently the CEO of a private natural gas producer in Mexico I co-founded. It is a small company, about 80 employees.
 
