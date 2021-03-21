@@ -8,13 +8,13 @@ I am very happy to report that I recently received my work permit. It is a one y
 
 As part of that exploration, I talked to a really nice guy who graduated a couple of years ago from a data science masters at Berkley. He suggested I start learning more about the Google cloud platform. 
 
-I trust his advice and have since signed up for the Google Certified Associate Cloud Engineer course at [A Cloud Guru][acg]. After the course I will take the certification exam. We'll see how it goes..
+I trust his advice and have since signed up for the [Google Certified Associate Cloud Engineer][ace] course at [A Cloud Guru][acg]. After the course I will take the certification exam. We'll see how it goes..
 
 On the data science front, it turns out the [Elite Data Science][eds] course is **excellent**, and it is exactly what I needed to cement what I have learned so far and to put it all together. 
 
 Yesterday, I finished the third module in which we built a machine learning model to predict real estate prices. We started with exploratory analysis, cleaned the data, engineered some features, prepared the dataset for the models, and finally tuned and fitted five algorithms (lasso, ridge, elastic net, random forest and gradient boost).
 
-I had already learned in Data Camp every one of the libraries used in the project, but this program structures together the different tools in very practical, streamlined and results-oriented way. I think I am learning the way one would in an actual DS job, with a more senior practicioner sitting nearby and helping you go through the project from start to finish.  
+I had already learned in [Data Camp][dc] every one of the libraries used in the project, but this program structures together the different tools in very practical, streamlined and results-oriented way. I think I am learning the way one would in an actual DS job, with a more senior practicioner sitting nearby and helping you go through the project from start to finish.  
 
 #### I sincerely recommend this program.  
 
@@ -22,7 +22,9 @@ A very cool feature is that the projects reside in your own machine, using the [
 
 I am starting to believe that little by litte I am becoming a Data Scientist. Level 0, mind you, but a Data Scientist nonetheless. Let's keep it going!
 
-[acg]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
+[ace]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
+[acg]: https://acloudguru.com/
 [eds]: https://elitedatascience.com
 [anaconda]: https://docs.anaconda.com
 [jupiter]: https://jupyter.org
+[dc]: https://www.datacamp.com
