@@ -6,11 +6,11 @@ categories: big data
 ---
 Take a look at this beauty:
 
-![Google Cloud Certified ACE](/my_blog/assets/images/gccace.png)
+![Google Cloud Certified ACE](/my_blog/assets/images/ggcace.png)
 
-Two days ago, I took the certification course and passed! Google emailed me last night with the link to my [certificate][cert]. I am over the moon!
+Two days ago, I took the Associate Cloud Engineer certification test and passed! Google emailed me last night with the link to my [certificate][cert]. I am over the moon!
 
-I was a bit naive going into the course, and I am glad I stuck with it to the end. It was not a small detour. These are some of the topics we covered in the [Associate Cloud Engineer][ace] course at [A Cloud Guru][acg]:
+I was a bit naive going into the course, but I am glad I stuck with it to the end. It was not a small detour. These are some of the topics we covered in the [ACE][ace] course at [A Cloud Guru][acg]:
 
 * Intro to the Google Cloud Platform, Products, and Services
 * Google Cloud Storage
@@ -21,9 +21,9 @@ I was a bit naive going into the course, and I am glad I stuck with it to the en
 * Google App Engine
 * Services (Databases, Machine Learning, Big Data, Operations, etc)
 
-I am not going to lie, it was pretty hard. I watched all the videos, practiced the labs, and did the extra work. Even though I felt confident going in to the test, there were many questions were I thought two of the answers could be correct and it was hard to choose the right one. I wrote about my experience in the [ACG forums][acg post].
+I am not going to lie, it was pretty hard. I watched all the videos, practiced the labs, and did the extra work. Even though I felt confident going into the test, there were many questions where I thought two of the answers could be correct and it was hard to choose the right one. I wrote about my experience in the [ACG forums][acg post].
 
-At some point during the ACE course, I started to get afraid this big data detour was too much and that it was taking me away from the data science. But then I looked at the GCP Data and Machine Learning path and it became clear how things will tie up in the end.
+At some point during the ACE course, I started to get afraid this big data detour was too much and that it was taking me away from data science. However, I looked at ACG's GCP Data and Machine Learning path and it became clear how things will tie up in the end.
 
 These are all the courses in the [Data and Machine Learning][DM path] path:
 

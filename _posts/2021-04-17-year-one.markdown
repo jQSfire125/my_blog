@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Year One"
+date:   2021-04-17 19:22:44 -0500
+categories: machine learning
+---
+This month marks the **one year** anniversary of this journey. It is amazing how much I have learned!! I am very happy and grateful that I had the opportunity to start down this path. Every day I am more confident that it will get done, that one day -little by little- I am going to be really good at this.
+
+But as much as I know I am better, it is important to realize just how much more I need to learn. I am still at the beginnning of this journey. 
+
+In other news, a couple of weeks ago I received my Green Card. I am oficially a resident of the US!! I can legally work and permanently live with my kids in San Antonio. This past year has brought a lot of change, and thankfully, most of it for the better.
+
+On the learning front, I recently finished all the modules of the machine learning accelerator course at [Elite Data Science][eds]. I still have to do the capstone project to earn my certificate. I have really enojoyed this course. Every aspiring data scientist should take it!
+
+I have also finished the 8th course of the HarvardX [Professional Certificate in Data Science][harvardXcert]: Machine Learning. Up next is Capstone, the 9th and final course of the series. We will have to show what we have learned so far and independently work on a machine learning project. I am looking forward to that.
+
+For now, I am putting these capstone projects on pause to focus on the [Associate Cloud Engineer][ace] course I started last month. I am very excited about earning the Google Cloud Platform ACE certification.
+
+I am really enjoying the course, and there is a whole world of learning: Linux, cloud storage, virtual machines, networking, Kubernetes, and a whole array of cloud products and services. What Google has built is truly impressive. 
+
+There is so much that the intructors assume one already knows. And even though it might take me a bit longer to understand everything, I am loving the journey. The world is definitely moving in the direction of the cloud; it just makes more sense this way.
+
+Cloud computing allows companies to focus on the higher value aspects of their business, build better code and products, and leave the management of hardware, capacity, networking, etc. to the cloud company. 
+
+If you think about it, it is similar to how one purchases electricity.  Every company could have their own generators, invest in redundant capacity, plan for growth, and hire the required engineers to build and manage the system. But it is more efficient to let the utility companies invest in all that, take advantage of the economies of scale, and just purchase the electricity from them. 
+
+As long as the market is competitive, the cost of purchasing the power is lower than it would be if you were to generate it yourself. On top of that, you get higher availability, reliability, and scalabity.
+
+In the meantime, I have plenty on my plate..
+
+[ace]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
+[eds]: https://elitedatascience.com
+[harvardXcert]: https://www.edx.org/professional-certificate/harvardx-data-science
