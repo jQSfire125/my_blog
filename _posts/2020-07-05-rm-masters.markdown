@@ -18,28 +18,34 @@ I completely agree with him. There are just so many good courses and resources o
 
 So, I have decided that this is going to be my path. I hereby present to you the:
 
-####Rogelio Montemayor's Masters Degree in Data Science and Machine Learning:
+#### Rogelio Montemayor's Masters Degree in Data Science and Machine Learning:
 
 * Main Courses:
 * Foundations
-	* CS50 on edX
-	* Codecademy Code Foundations
+	* **CS50 on edX**
 	* DataCamp shell and git courses
-* Data Science / Machine Learning
-	* DataCamp Data Scientist With Python Track
-	* DataCamp Machine Learning Scientist With Python Track
+* Data Science / Machine Learning / AI
+	* **DataCamp Data Scientist With Python Track**
+	* **DataCamp Machine Learning Scientist With Python Track**
+	* DataCamp Data Engineer with Python Track
 	* DataCamp SQL Fundamentals Skill Track
 	* DataCamp Python Programming Skill Track
-	* HarvardX Data Science Professional Certificate on edX
+	* **HarvardX Data Science Professional Certificate on edX**
 	* Kaggle courses 
 	* Kaggle competitions (aim for expert status)
-	* Google Certified Associate Cloud Engineer
+	* **Elite Data Science Machine Learning Accelerator**
 	* Google Machine Learning Crash Course
 	* Fast.ai Machine Learning Course
 	* UM Applied Data Science with Python on Coursera
 	* Andrew Ng’s Machine Learning on Coursera
 	* Udacity Deep Learning Nanodegree Foundations
+	* CS50's Introduction to Artificial Intelligence with Python on edX
 	* Udacity Artificial Intelligence Nanodegree
+* Big Data
+	* **Google Certified Associate Cloud Engineer**
+	* Google Certified Professional Data Engineer
+	* Google Certified Professional Cloud Developer
+	* Google Certified Professional Machine Learning Engineer
 * Math
 	* Khan Academy Matrices
 	* Khan Academy Linear Algebra
@@ -52,12 +58,14 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* Naked Statistics by Charles Wheelan
 	* An Introduction to Statistical Learning by James G., Witten D., et al.
 	* Think Stats by Allen B. Downey
-	* Data Science from Scratch by Joel Grus
+	* **Data Science from Scratch by Joel Grus**
 	* Hands-on Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron
 	* The Hundred-Page Machine Learning Book by Andriy Burkov
 	* Information Theory, Inference and Learning Algorithms by David MacKay
 
-This list can be greatly expanded, and that is what will happen as I finish courses and keep learning. I will also be modifying it and updating it as I learn more. It is great to finally have a roadmap for this journey!
+***Bold means completed**
+
+This blueprint can be expanded and modified, and that is what will happen as I finish courses and keep learning.. It is great to finally have a roadmap for this journey!
 
 [danbourke]: https://www.mrdbourke.com/aimastersdegree/
 

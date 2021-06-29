@@ -8,7 +8,7 @@ Today I finished the Data Scientist with Python career track in Data Camp! 23 co
 
 Done, under the belt! =D
 
-Of course, I am not yet a Data Scientist. This was just the first step, but I am noticing a lot of the syntax starts to feel familiar, and the projects that at the beginning seemed a bit inscrutable, are a lot easier and the process makes a lot more sense. 
+Of course, I am not yet a Data Scientist. This was just the first step, but I am noticing a lot of the syntax starts to feel familiar, and the projects that at the beginning seemed inscrutable are a lot easier, and the process makes a lot more sense. 
 
 I am very happy I stumbled onto [Data Camp][datacamp] and I really enjoy their system. There is even an assessment tool called Data Camp Signal that measures how one stacks up against others in different skills. These are the ones I have taken so far, and my score:
 
@@ -20,7 +20,7 @@ I am very happy I stumbled onto [Data Camp][datacamp] and I really enjoy their s
 
 I am a little bit embarrassed by my score on Data Manipulation, but I will take the assessments again in a couple of months, and see how I improve...
 
-After finishing, I enrolled in the Machine Learning Scientist with Python Track. It is also 23 courses with 93 hours of instruction. I will try to finish it by the end of the year. I am exited because it includes scikit-learn, TensorFlow, Keras, and PySpark. 
+After finishing the DS Track, I enrolled in the Machine Learning Scientist with Python Track. It is also 23 courses with 93 hours of instruction. I will try to finish it by the end of the year. I am exited because it includes scikit-learn, TensorFlow, Keras, and PySpark. 
 
 #### One more step in my [path][blog RM Masters]
 
