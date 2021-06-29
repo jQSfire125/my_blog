@@ -25,7 +25,7 @@ I am not going to lie, it was pretty hard. I watched all the videos, practiced t
 
 At some point during the ACE course, I started to get afraid this big data detour was too much and that it was taking me away from data science. However, I looked at ACG's GCP Data and Machine Learning path and it became clear how things will tie up in the end.
 
-These are all the courses in the [Data and Machine Learning][DM path] path:
+These are all the courses in the [GCP Data and Machine Learning][DM path] path:
 
 1. Novice Level
 	* Intro to Cloud Computing
