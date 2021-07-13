@@ -12,14 +12,16 @@ The goal is to predict whether a transaction is fraudulent or not based on the 3
 
 [Project link][edscc]
 
---
+---
+
 #### ULB Credit Card Fraud prediction (R)
 I wanted to compare and learn how to to a similar analysis in R
 
 [Report in pdf][gitcc]  
 [GitHub link][jQScc]
 
---
+---
+
 #### MovieLens movie recommendation (R)
 a movie recommendation system using the [MovieLens][movielens] data set.
 
@@ -28,13 +30,15 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 [Report in pdf][gitmovie]  
 [GitHub link][jQSmovie]
 
---
+---
+
 #### Data Camp Projects (Python)
 I have been taking Data Camp courses for the last 15 months. Here are all the projects I have completed there.
 
 [Data Camp Projects][dcproj]
 
--- 
+---
+
 #### White wine & red wine (Python)
 There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of a wine as graded by experts, using the physicochemical properties of the wine in the data set.
 
