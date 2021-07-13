@@ -54,14 +54,17 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* Math for Machine Learning on Cursera
 * Books
 	* Take control of the Mac Command Line with Terminal
-	* Learn Python the Hard Way by Zed Shaw
+	* Information Theory, Inference and Learning Algorithms by David MacKay
+	* An introduction to Statistical Learning by James G., Witten D., et al.
 	* Naked Statistics by Charles Wheelan
-	* An Introduction to Statistical Learning by James G., Witten D., et al.
-	* Think Stats by Allen B. Downey
+	* Learn Python the Hard Way by Zed Shaw
 	* **Data Science from Scratch by Joel Grus**
 	* Hands-on Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron
 	* The Hundred-Page Machine Learning Book by Andriy Burkov
-	* Information Theory, Inference and Learning Algorithms by David MacKay
+	* Artificial Intelligence: A Modern Approach by Peter Norvig and Steven Russell
+	* Deep Learning with Python by François Chollet
+	* Neural Networks and Deep Learning by Michael Nielsen
+	* Build a Career in Data Science by Emily Robinson and Jacqueline Nolis
 
 ***Bold means completed**
 

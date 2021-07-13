@@ -15,7 +15,7 @@ Here are my practice projects:
 * [White Wine][white]
 * [Red Wine][red] 
 
-Then I had to choose a data set for the final project. I chose a credit card fraud data set I found in [Kaggle][ccfraud]. This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
+Then, I had to choose a data set for the final project. I chose a credit card fraud data set I found in [Kaggle][ccfraud]. This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
 
 The goal is to predict whether a transaction is fraudulent or not based on the 30 variables provided. Most of the variables are the principal components obtained with PCA of the original data.
 
@@ -23,7 +23,7 @@ Here is my capstone project for EDS:
 
 * [ULB Credit Card Fraud][edscc] 
 
-I received my **Machine Learning Accelerator** certificate a couple days later. Again, I wholeartedly recommend this course. It was great.
+I received my **Machine Learning Accelerator** certificate a couple days later. Again, I wholeartedly recommend this course. It was great!
 
 After that, I moved on to HarvardX. We had to submit two capstone projects. The first one was a movie recommendation system using the [MovieLens][movielens] data set.
 
@@ -40,7 +40,7 @@ Here is my capstone project in [GitHub][jQScc]:
 * [Credit card fraud prediction][gitcc]
 
 With these two submissions, I have now completed the [HarvardX 
-.3Professional Certificate in Data Science][harvardXcert]. 
+Professional Certificate in Data Science][harvardXcert]. 
 
 On the edX website it says the complete Certificate takes 17 months. I finished in 11. It was a fun experience. 
 
