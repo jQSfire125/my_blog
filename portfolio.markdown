@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 
 ## My Projects
-#### ULB Credit Card Fraud prediction (Python)
+### ULB Credit Card Fraud prediction (Python)
 This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
 
 The goal is to predict whether a transaction is fraudulent or not based on the 30 variables provided. Most of the variables are the principal components obtained with PCA of the original data.
@@ -14,7 +14,7 @@ The goal is to predict whether a transaction is fraudulent or not based on the 3
 
 ---
 
-#### ULB Credit Card Fraud prediction (R)
+### ULB Credit Card Fraud prediction (R)
 I wanted to compare and learn how to to a similar analysis in R
 
 [Report in pdf][gitcc]  
@@ -22,7 +22,7 @@ I wanted to compare and learn how to to a similar analysis in R
 
 ---
 
-#### MovieLens movie recommendation (R)
+### MovieLens movie recommendation (R)
 a movie recommendation system using the [MovieLens][movielens] data set.
 
 This data set contains 10 million ratings of more than 10,000 movies given by about 70,000 users. This was a guided project where we were provided some of the code to set up the data set and we based the recommendation system on an example we worked on in the course series.
@@ -32,14 +32,14 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 
 ---
 
-#### Data Camp Projects (Python)
+### Data Camp Projects (Python)
 I have been taking Data Camp courses for the last 15 months. Here are all the projects I have completed there.
 
 [Data Camp Projects][dcproj]
 
 ---
 
-#### White wine & red wine (Python)
+### White wine & red wine (Python)
 There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of a wine as graded by experts, using the physicochemical properties of the wine in the data set.
 
 [White wine link][white]  
