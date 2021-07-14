@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### ULB Credit Card Fraud prediction (Python)
+### ULB credit card fraud prediction (Python)
 This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
 
 The goal is to predict whether a transaction is fraudulent or not based on the 30 variables provided. Most of the variables are the principal components obtained with PCA of the original data.
@@ -16,7 +16,7 @@ The goal is to predict whether a transaction is fraudulent or not based on the 3
 
 ---
 
-### ULB Credit Card Fraud prediction (R)
+### ULB credit card fraud prediction (R)
 I did the ULB credit card fraud prediction project in R to practice and to compare implementation differences of R vs. Python.
 
 * Classification
@@ -40,7 +40,7 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 
 ---
 
-### Data Camp Projects (Python)
+### Data Camp projects (Python)
 I have been taking many Data Camp courses for the last 15 months. These are all the projects I have completed.
 
 * Data Manipulation
@@ -48,7 +48,7 @@ I have been taking many Data Camp courses for the last 15 months. These are all 
 * Importing and Cleaning Data
 * Machine Learning
 
-[Data Camp Projects][dcproj]
+[Data Camp projects][dcproj]
 
 ---
 
