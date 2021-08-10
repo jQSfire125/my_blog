@@ -30,7 +30,7 @@ I did the ULB credit card fraud prediction project in R to practice and to compa
 
 This was the project I presented to achieve Data Scientist Professional [certification][dspc] from [Data Camp][dc]. The data set contains price information for 6,700 used cars in the UK. 
 
-The goal is to estimate the price of used cars within £1,500, using the 8 variables provided.
+The goal is to estimate the price of used cars within £1,500 using the 8 variables provided.
 
 * Regression
 * Regularized Regression, Random Forest, Gradient Boosting
