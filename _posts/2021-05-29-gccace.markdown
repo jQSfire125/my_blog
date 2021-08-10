@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Google Cloud Certified Associate Cloud Engineer"
+date:   2021-05-29 13:11:06 -0500
+categories: big data
+---
+Take a look at this beauty:
+
+![Google Cloud Certified ACE](/my_blog/assets/images/ggcace.png)
+
+Two days ago, I took the Associate Cloud Engineer certification test and passed! Google emailed me last night with the link to my [certificate][cert]. I am over the moon!
+
+I was a bit naive going into the course, but I am glad I stuck with it to the end. It was not a small detour. These are some of the topics we covered in the [ACE][ace] course at [A Cloud Guru][acg]:
+
+* Intro to the Google Cloud Platform, Products, and Services
+* Google Cloud Storage
+* Google Compute Engine   
+* Security  
+* Networking
+* Google Kubernetes Engine
+* Google App Engine
+* Services (Databases, Machine Learning, Big Data, Operations, etc)
+
+I am not going to lie, it was pretty hard. I watched all the videos, practiced the labs, and did the extra work. Even though I felt confident going into the test, there were many questions where I thought two of the answers could be correct and it was hard to choose the right one. I wrote about my experience in the [ACG forums][acg post].
+
+At some point during the ACE course, I started to get afraid this big data detour was too much and that it was taking me away from data science. However, I looked at ACG's GCP Data and Machine Learning path and it became clear how things will tie up in the end.
+
+These are all the courses in the [GCP Data and Machine Learning][DM path] path:
+
+1. Novice Level
+	* Intro to Cloud Computing
+	* Google Cloud Concepts
+	* Intro to Google Cloud
+	* Linux Operating System Fundamentals
+2. Apprentice Level
+	* Cost Control on GCP
+	* Google Cloud Essentials
+3. Practitioner
+	* Machine Learning for Absolute Beginners
+	* Introduction to Python Development
+	* Google Certified Associate Cloud Engineer
+	* Google Cloud IAM Deep Dive
+4. Professional
+	* Intro to Machine Learning
+	* Google Certified Professional Data Engineer
+	* Google Cloud AI Services Deep Dive
+	* Google Cloud SQL Deep Dive
+5. Guru
+	* Google Cloud Certified Professional Cloud Developer
+	* Google Cloud Certified Professional Machine Learning Engineer
+	
+I am currently at the **Practictioner** level. I have to do two more courses before I can start the **Professional** level. It will take some time, but I believe once I finish all the courses and get the certification as Machine Learning Engineer, I will be a much better Data Scientist.
+
+For now, I will get started on the capstone projects ([EDS][eds] and [HarvardX][capstone]) that I left on hold.
+
+#### The road is long, but the joy is in the journey..
+
+[cert]: https://www.credential.net/89c7c1df-eda9-4e11-bcfc-d061c414cc30
+[ace]: https://acloudguru.com/course/google-certified-associate-cloud-engineer
+[acg]: https://acloudguru.com/
+[acg post]: https://acloud.guru/forums/gcp-certified-associate-cloud-engineer/discussion/-MaiuHJ8ivfCuDw7rJ-L/google_cloud_associate_cloud_e
+[DM path]: https://learn.acloud.guru/learning-path/gcp-data-ml
+[eds]: https://elitedatascience.com
+[capstone]: https://www.edx.org/course/data-science-capstone

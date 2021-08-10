@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Kaggle"
+date:   2020-07-21 16:33:01 -0500
+categories: machine learning
+---
+I have started taking the courses at [Kaggle][kaggle]. It is an amazing website. Thank you Google for keeping it free.
+
+At first, I was intimidated by how fast they jump into machine learning, building a model in the first lesson of the first course. It goes really fast, but I think that it is very useful to start getting used to the concepts, and then I can go deeper in other courses, or by practicing in the competitions. 
+
+I was also watching a video by [Joma Tech][joma] where he talks about the whole data science pipeline, what he calls the Data Science Hierarchy of Needs:
+
+![Data Science Hierarchy of Needs](/my_blog/assets/images/dshierarchy.png)
+
+It is about how the job of a data scientist / analyst / engineer can mean many different things in different companies, and how there is often times a disconnect between what is talked about in data science articles or videos, and what the requierements of a company actually are.
+
+In a different video, [Krish Naik][krish] talks about his version of the data science ecosystem. It really helped me to get an overview, to see which areas I am attacking in my learning, and what other areas/tools I will need to focus on in the future. Here is his list:
+
+* Programming Language
+    * Python
+    * R
+    * Java
+* Web Scraping
+    * Beautiful Soup
+    * Scrapy
+    * Urllib
+* Data Analysis
+    * Feature Engineering
+    * Data wrangling
+    * Exploratory Data Analysis
+* Data Visualization
+    * Tableau
+    * Power BI
+    * Matplotlib, GGplot, Seaborn
+* Machine Learning
+    * Classification
+    * Regression
+    * Reinforcement
+    * Deep Learning
+    * Dimensionality Reduction
+    * Clustering
+* IDE
+    * Pycharm
+    * Jupyter
+    * Spyder
+    * R Studio
+    * VS Studio
+* Math
+    * Statistics
+    * Linear Algebra
+    * Differential Equations
+* Deploy
+    * AWS
+    * Azure
+
+[kaggle]: https://www.kaggle.com
+[joma]: https://www.youtube.com/watch?v=xC-c7E5PK0Y
+[krish]: https://www.youtube.com/watch?v=csG_qfOTvxw

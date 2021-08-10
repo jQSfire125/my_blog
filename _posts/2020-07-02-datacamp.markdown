@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Data Camp"
+date:   2020-07-02 09:35:39 -0500
+categories: update
+---
+I am trying to learn Python, so I was at the [learnpython.org][lporg] website and I stumbled onto [Data Camp][datacamp].
+
+I tried the free parts and resisted upgrading at first, but finally gave in and bought a yearly subscription. I am very glad I did! It is a great site, with hundreds of quality courses, and the format really works for me. 
+
+You normally have 4 modules per course. Each module consists of a series of short videos followed by a few exercises. Each course is around 4 hours long.
+
+I enrolled in the Data Scientist With Python career track. It has 23 courses and 6 projects, an estimated 88 hours of instruction.
+
+I am still not sure if I will eventually enroll in a bootcamp or a masters degree online, but for now this is a great way to keep learning and also to test my intuition about data science.
+
+I also recently stumbled onto [3 Blue 1 Brown][3b1b]. 
+
+What an amazing youtube channel! One has to be absolutely greatful there are people in this world like Grant Sanderson who are just so smart and so generous in teaching the rest of us about things like linear algebra and neural networks. The videos are amazing. He really does an great job of making these concepts easy to understand. 
+
+#### Thank you Mr. Sanderson!
+
+
+[lporg]: https://www.learnpython.org/en/Welcome
+[datacamp]: https://www.datacamp.com/
+[3b1b]: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw

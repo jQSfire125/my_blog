@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Agile"
+date:   2020-04-05 10:17:05 -0500
+categories: update
+---
+I am still waiting to hear back from the people at CS106A. To apply, you have to solve some puzzles on a program called Karel. It was fun. 
+
+It is a bit like Logo, a program they had us play with at a camp when I was 7. 
+
+In the meantime, I just received my Scrum Master and Scrum Product Owner certifications from the [International Scrum Institute][isc].
+
+#### The first step in my journey =)
+
+[isc]: http://WWW.SCRUM-INSTITUTE.ORG

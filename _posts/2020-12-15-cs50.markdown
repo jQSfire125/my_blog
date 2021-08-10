@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "CS50, done"
+date:   2020-12-15 19:12:40 -0500
+categories: update
+---
+
+Yesterday I finished my final project in Harvard's CS50: Introduction to Computer Science.
+
+It was a web-based application using JavaScript, Python, Flask and SQL. I chose to do a budgeting app where the user can track their expenses based on the envelopes method. There is a very good commercial application I used in the past called [Goodbudget][gb]. You can see my presentation video [here][youtube video].
+
+I am very proud that I was able to finish on time. There were moments when I thought I would have to spend most of my Christmas break working on it, but in the end, the concept started coming together very well and I was very happy with the end result. It is a shame the presentation video was limited to two minutes because there was a lot of functionality I was not able to showcase.
+
+In general, taking CS50 was a transformational experience. There were moments when I felt I was not smart enough to do some of the homework problems, but in the end I finished them all. I have to say once we moved from C to Python, it became a lot easier. I admire those who can do really complex things in C.
+
+It turns out Professor David Malan and Brian Yu offer a companion course to CS50 called CS50's Introduction to Artificial Intelligence with Python. 
+
+Together, these two courses form the [Professional Certificate in Computer Science for Artificial Intelligence][aicert] from HarvardX. I want to start that second course as soon as I am done with the Data Camp and HarvadX data science courses.
+
+#### The journey continues..
+
+[youtube video]: https://youtu.be/Vg3lJGAUAaU
+[gb]: https://goodbudget.com
+[aicert]: https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence

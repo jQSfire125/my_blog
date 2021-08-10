@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "CS50, the starting point"
+date:   2020-04-15 21:29:47 -0500
+categories: update
+---
+Well, It turns out CS106A was **80x** oversubcribed. They were expecting a few hundred to a thousand people to apply and they got over 80,000. Wow!
+
+On the website explaining this, they are suggesting to take Harvard's [CS50][cs50] on [edX][edx] as an alternative, for those of us who did not get in. 
+
+So I joined and I have to say that CS50 is an amazing course. Professor Malan is a rockstar!! 
+
+I don't know what I am missing by not being able to get into CS106A, but I am very happy to be in this course. It is definitely the starting point of my journey.
+
+I will learn C, Python, and SQL. Then choose between building a web app, building an app in either Android or iOS, or creating a game. 
+
+As part of the class, one has to open a GitHub account. I am now [jQSfire125][jQS].
+
+I am just discovering this brand new world, full of really cool tools. I even picked an octocat design with my daughter for my GitHub avatar:
+
+![Octocat](/my_blog/assets/images/octocat.png)
+
+[cs50]: https://cs50.harvard.edu/x/2020/
+[edx]: https://www.edx.org/
+[jQS]: https://github.com/jQSfire125

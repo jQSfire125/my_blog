@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "NLP"
+date:   2020-11-15 18:22:26 -0500
+categories: machine learning
+---
+Today I started an intro to NLP course on [Data Camp][datacamp]. It is part of the Machine Learning Scientist with Python track I am in.
+
+I like NLP, it seems really cool. It is also harder for me than other machine learning methods. I don't know why, but regression and classification models seem a lot more intuitive than bags of words and TF-IDF. 
+
+This is not the first time they use TF-IDF on the courses I take in [Data Camp][datacamp], they actually have used the method in a few courses. And the more I see it the more familiar it becomes. I guess I have just been more used to using numbers than sentences. 
+
+I am also taking a SQL course in Kaggle. It uses BigQuery by Google (Kaggle being a Google property) so it is a bit different than the SQLite I have learned so far in CS50. 
+
+Speaking of CS50, I have until December 31st at midnight to finish the course in order to get a certificate. I am so far in the middle of the Web track. 3 more videos, a homework problem building a web app and then onto the final project. I have to stay focused if I don't want to spend Christmas working on the final project =)
+
+Also, I have just finished course 5 of the HarvardX certificate program: Productivity Tools. They cover Unix, git, and GitHub among other things. It is nice that now I understand better some of the commands I used to get this blog onto GitHub. At the time I was just crossing my fingers hoping I copied the instructions right hehe.
+
+I have to say that I am **really** enjoying this journey. Every day I find myself looking forward to work on my courses when I get some free time from work. It is normally the best part of my workday.
+
+[datacamp]: https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python
