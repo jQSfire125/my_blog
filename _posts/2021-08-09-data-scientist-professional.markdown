@@ -21,7 +21,7 @@ You then have to solve a Python coding challenge.
 
 And finally, there is a case study with two sections: 
 
-* A jupyter notebook with all the code, graphs, and modelling.
+* A jupyter notebook with all the code, graphs, and modeling.
 * A presentation to a non-technical stakeholder.
 
 The case study takes place over a four-hour zoom call with a Data Camp data scientist. 
