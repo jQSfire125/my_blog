@@ -7,7 +7,7 @@ categories: update
 
 Yesterday I finished my final project in Harvard's CS50: Introduction to Computer Science.
 
-It was a web-based application using JavaScript, Python, Flask and SQL. I chose to do a budgeting app where the user can track their expenses based on the envelopes method. There is a very good commercial application I used in the past called [Goodbudget][gb]. You can see my presentation video [here][youtube video].
+It was a web-based application using JavaScript, Python, Flask, and SQL. I chose to do a budgeting app where the user can track their expenses based on the envelopes method. There is a very good commercial application I used in the past called [Goodbudget][gb]. You can see my presentation video [here][youtube video].
 
 I am very proud that I was able to finish on time. There were moments when I thought I would have to spend most of my Christmas break working on it, but in the end, the concept started coming together very well and I was very happy with the end result. It is a shame the presentation video was limited to two minutes because there was a lot of functionality I was not able to showcase.
 

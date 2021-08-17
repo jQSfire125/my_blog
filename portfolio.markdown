@@ -51,6 +51,14 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 [GitHub link][jQSmovie]
 
 ---
+### Budgeting Web App (Flask, Python, SQL)
+A budgeting app where the user can track their expenses based on the envelopes method. It is inspired on a very good commercial application called [Goodbudget][gdbgt].
+
+* JavaScript, Python, Flask, and SQL
+
+[Project video][cs50bud]
+
+---
 
 ### Data Camp projects (Python)
 I have been taking many [Data Camp][dc] courses for the last 16 months. These are all the projects I have completed.
@@ -86,3 +94,5 @@ There are two data sets, one for white wine (4,898 wines) and one for red wine (
 [white]: https://nbviewer.jupyter.org/github/jQSfire125/Wine/blob/main/Capstone-Wine-White.ipynb
 [red]: https://nbviewer.jupyter.org/github/jQSfire125/Wine/blob/main/Capstone-Wine-Red.ipynb
 [dspc]: https://www.datacamp.com/certificate/DS0019388936730
+[cs50bud]: https://youtu.be/Vg3lJGAUAaU
+[gdbgt]: https://goodbudget.com/
