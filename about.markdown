@@ -14,7 +14,7 @@ During the MBA, I remember talking to the younger brother of a college friend wh
 
 Now, 20 years later, I find myself rethinking that belief.
 
-I decided that I would take advantage of the changes brought on by the Covid-19 pandemic, plus some personal opportunities and re-start my career with a deeper focus in data science and machine learning.
+I decided that I would take advantage of the changes brought on by the Covid-19 pandemic, plus some personal opportunities and re-start my career with a deeper focus in data and analytics.
 
 I have always loved learning, computers, and solving thought problems. I am at a stage in my life where I want to focus more on what I want to do, what I enjoy doing, than on a title or a salary. I am very excited to be on this path..  
 

@@ -16,7 +16,7 @@ During the MBA, I remember talking to the younger brother of a college friend wh
 
 Now -almost 20 years later- I find myself rethinking that belief. 
 
-I have decided that I will take advantage of the changes brought on by the Covid-19 pandemic, plus some personal opportunities, and re-start my career with a deeper focus on programming.
+I have decided that I will take advantage of the changes brought on by the Covid-19 pandemic, plus some personal opportunities, and re-start my career with a deeper focus on data and analytics.
 
 A couple days ago I received an email inviting me to sign up for an online and free version of CS106A, the iconic undergrad introductory computer science course at Stanford. 
 
