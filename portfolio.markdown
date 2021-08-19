@@ -26,6 +26,7 @@ I did the ULB credit card fraud prediction project in R to practice and to compa
 [GitHub link][jQScc]
 
 ---
+
 ### UK used cars market (Python)
 
 This was the project I presented to achieve Data Scientist Professional [certification][dspc] from [Data Camp][dc]. The data set contains price information for 6,700 used cars in the UK. 
@@ -39,6 +40,15 @@ The goal is to estimate the price of used cars within £1,500 using the 8 variab
 
 ---
 
+### Budgeting Web App (Flask, Python, SQL)
+A budgeting app where the user can track their expenses based on the envelopes method. It is inspired on a very good commercial application called [Goodbudget][gdbgt].
+
+* JavaScript, Python, Flask, and SQL
+
+[Project video][cs50bud]
+
+---
+
 ### MovieLens movie recommendation system (R)
 A movie recommendation system using the [MovieLens][movielens] data set.
 
@@ -49,14 +59,6 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 
 [Report in pdf][gitmovie]  
 [GitHub link][jQSmovie]
-
----
-### Budgeting Web App (Flask, Python, SQL)
-A budgeting app where the user can track their expenses based on the envelopes method. It is inspired on a very good commercial application called [Goodbudget][gdbgt].
-
-* JavaScript, Python, Flask, and SQL
-
-[Project video][cs50bud]
 
 ---
 
