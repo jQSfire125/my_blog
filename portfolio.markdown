@@ -27,6 +27,21 @@ I did the ULB credit card fraud prediction project in R to practice and to compa
 
 ---
 
+### Lending Club loans (Python)
+
+This was my entry to the workspace competition at [Data Camp][dc]. The data set contains information for almost 10,000 loans issued by [Lending Club][lc]. 
+
+There were multiple goals for this project: explore the data, visualize it, and try to extract useful insights. Estimate the time it takes users to pay back their loans and explore the different types of customers that take loans for different purposes.
+
+As a final step, the goal was to build a model to predict whether a loan will be paid back in full. 
+
+* Classification
+* Logistic Regression, Random Forest, Gradient Boosting
+
+[Project link][dcwc]
+
+---
+
 ### UK used cars market (Python)
 
 This was the project I presented to achieve Data Scientist Professional [certification][dspc] from [Data Camp][dc]. The data set contains price information for 6,700 used cars in the UK. 
@@ -91,6 +106,8 @@ There are two data sets, one for white wine (4,898 wines) and one for red wine (
 [jQScc]: https://github.com/jQSfire125/CreditCard
 [gitcc]: https://github.com/jQSfire125/CreditCard/blob/master/report.pdf
 [dc]: https://www.datacamp.com
+[lc]: https://www.lendingclub.com
+[dcwc]: https://app.datacamp.com/workspace/w/03e54e71-e0c8-450b-a2fd-6449232efdc1
 [toyota]: https://nbviewer.jupyter.org/github/jQSfire125/Toyota/blob/main/toyota.ipynb
 [dcproj]: https://github.com/jQSfire125/DataCamp-Projects
 [white]: https://nbviewer.jupyter.org/github/jQSfire125/Wine/blob/main/Capstone-Wine-White.ipynb
