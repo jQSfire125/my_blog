@@ -4,6 +4,16 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+### Price transparency Texas hospitals (Python)
+US hospitals are required to post their prices online, but hospitals are all over the map on formatting. The first goal was to find the files in their different websites, clean and transform the data, and upload it to a SQL database for analysis. This is a work in progress.
+
+* Collect, clean, transform, and analyze data
+* Python, Docker, Postrges SQL, Flyway
+
+[Project link][txtrans]
+
+---
+
 ### ULB credit card fraud prediction (Python)
 This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
 
@@ -99,6 +109,7 @@ There are two data sets, one for white wine (4,898 wines) and one for red wine (
 [Red wine link][red]
 
 
+[txtrans]: https://github.com/jQSfire125/price-transparency-tx
 [edscc]: https://nbviewer.jupyter.org/github/jQSfire125/ULB-Credit-Card-Fraud/blob/main/Capstone-ULB-Credit-Card-Fraud.ipynb
 [jQSmovie]: https://github.com/jQSfire125/MovieLens
 [gitmovie]: https://github.com/jQSfire125/MovieLens/blob/master/report.pdf
