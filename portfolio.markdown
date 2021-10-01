@@ -88,7 +88,7 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 ---
 
 ### Data Camp projects (Python)
-I have been taking many [Data Camp][dc] courses for the last 16 months. These are all the projects I have completed.
+I have been taking many [Data Camp][dc] courses for the last 18 months. These are all the projects I have completed.
 
 * Data Manipulation
 * Data Visualization
