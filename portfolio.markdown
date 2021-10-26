@@ -11,7 +11,7 @@ The second goal was to get a sense for the hospital group with the best relative
 
 
 * Collect, clean, transform, and analyze data
-* Python, Docker, Postrges SQL, Flyway
+* Python, Docker, PostrgeSQL, Flyway
 
 [Project link][txtrans]
 
