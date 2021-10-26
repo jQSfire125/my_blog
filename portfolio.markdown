@@ -5,7 +5,10 @@ permalink: /portfolio/
 ---
 
 ### Price transparency Texas hospitals (Python)
-US hospitals are required to post their prices online, but hospitals are all over the map on formatting. The first goal was to find the files in their different websites, clean and transform the data, and upload it to a SQL database for analysis. This is a work in progress.
+US hospitals are required to post their prices online, but hospitals are all over the map on formatting. The first goal was to find the files in their different websites, clean and transform the data, and upload it to a SQL database for analysis. 
+
+The second goal was to get a sense for the hospital group with the best relative prices, using the most common procedures over almost 1 million data points.
+
 
 * Collect, clean, transform, and analyze data
 * Python, Docker, Postrges SQL, Flyway
