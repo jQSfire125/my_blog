@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Docker"
+date:   2021-10-20 16:15:11 -0500
+categories: update
+---
+
+I was very fortunate to meet Greg Blackman, who invited me to join [Evello][evello] as a data science consultant. 
+
+Evello is a revenue management platform. I will be helping design a better ranking model for the videos and creating composite metrics.
+
+Last month I talked about my experience joining [SharpestMinds][sm] and how I was very fortunate to get [Nate Sutton][nate] as my mentor. 
+
+Today, I am thrilled to announce I have finished my project! You can find it [here][project]. 
+
+The project aimed to analyze prices for all hospitals in the Austin/San Antonio TX region. The first step was to go to the hospital's websites and download the pricing files they must maintain as part of their mandate.
+
+Since every hospital uses different ways to organize the information, a big part of the project is a dockerized database that normalizes and transforms the data and then loads it into a PostgreSQL database for analysis. Once there, I assessed which hospital group was the best relative value.
+
+It was a fantastic experience. When I first saw Nate's version of the docker container, I was very intimidated and sad. Sad that I had spent almost a year and a half training and still knew very little. I understood less than half of the code.
+
+But the learning started there. After the initial shock, I decided to start working at the edges of what I did understand. Little by little (and much research later), I finally completed the project this last week. I am very proud and grateful to Nate for guiding me through this experience. 
+
+#### Thank you, Nate.
+
+
+
+[evello]: https://www.evello.io
+[sm]: https://www.sharpestminds.com
+[nate]: https://nasutton.medium.com
+[project]: https://github.com/jQSfire125/price-transparency-tx

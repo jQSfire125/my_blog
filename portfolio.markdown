@@ -5,13 +5,12 @@ permalink: /portfolio/
 ---
 
 ### Price transparency Texas hospitals (Python)
-US hospitals are required to post their prices online, but hospitals are all over the map on formatting. The first goal was to find the files in their different websites, clean and transform the data, and upload it to a SQL database for analysis. 
+US hospitals must post their prices online, but hospitals are all over the map on formatting. The first goal was to find the files on their websites, clean and transform the data, and upload it to a PostgreSQL database for analysis. 
 
-The second goal was to get a sense for the hospital group with the best relative prices, using the most common procedures over almost 1 million data points.
+The second goal was to get a sense of the hospital group with the best relative prices, using almost 1 million data points of the most common procedures.
 
-
-* Collect, clean, transform, and analyze data
-* Python, Docker, PostrgeSQL, Flyway
+* Collect, clean, transform and analyze data
+* Python, Docker, PostgreSQL, Flyway
 
 [Project link][txtrans]
 
@@ -42,11 +41,11 @@ I did the ULB credit card fraud prediction project in R to practice and to compa
 
 ### Lending Club loans (Python)
 
-This was my entry to the workspace competition at [Data Camp][dc]. The data set contains information for almost 10,000 loans issued by [Lending Club][lc]. 
+It was my entry to the workspace competition at [Data Camp][dc]. The data set contains almost 10,000 loans issued by [Lending Club][lc]. 
 
-There were multiple goals for this project: explore the data, visualize it, and try to extract useful insights. Estimate the time it takes users to pay back their loans and explore the different types of customers that take loans for different purposes.
+There were multiple goals for this project: explore the data, visualize it, and extract valuable insights. Estimate the time it takes users to pay back their loans and explore the different types of customers that take loans for various purposes.
 
-As a final step, the goal was to build a model to predict whether a loan will be paid back in full. 
+As a final step, the goal was to build a model to predict whether a loan would be paid back in full. 
 
 * Classification
 * Logistic Regression, Random Forest, Gradient Boosting
@@ -57,9 +56,9 @@ As a final step, the goal was to build a model to predict whether a loan will be
 
 ### UK used cars market (Python)
 
-This was the project I presented to achieve Data Scientist Professional [certification][dspc] from [Data Camp][dc]. The data set contains price information for 6,700 used cars in the UK. 
+It was the project I presented to achieve Data Scientist Professional [certification][dspc] from [Data Camp][dc]. The data set contains price information for 6,700 used cars in the UK. 
 
-The goal is to estimate the price of used cars within £1,500 using the 8 variables provided.
+The goal is to estimate the price of used cars within £1,500 using the eight variables provided.
 
 * Regression
 * Regularized Regression, Random Forest, Gradient Boosting
@@ -69,7 +68,7 @@ The goal is to estimate the price of used cars within £1,500 using the 8 variab
 ---
 
 ### Budgeting Web App (Flask, Python, SQL)
-A budgeting app where the user can track their expenses based on the envelopes method. It is inspired on a very good commercial application called [Goodbudget][gdbgt].
+A budgeting app where users can track their expenses based on the envelopes method. It is inspired by an excellent commercial application called [Goodbudget][gdbgt].
 
 * JavaScript, Python, Flask, and SQL
 
@@ -80,7 +79,7 @@ A budgeting app where the user can track their expenses based on the envelopes m
 ### MovieLens movie recommendation system (R)
 A movie recommendation system using the [MovieLens][movielens] data set.
 
-This data set contains 10 million ratings of more than 10,000 movies given by about 70,000 users. This was a guided project where we were provided some of the code to set up the data set and we based the recommendation system on an example from the course series.
+This data set contains 10 million ratings of more than 10,000 movies given by about 70,000 users. It was a guided project where we were provided some code to set up the data set and based the recommendation system on an example from the course series.
 
 * Recommendation System
 * Regularization
@@ -90,8 +89,8 @@ This data set contains 10 million ratings of more than 10,000 movies given by ab
 
 ---
 
-### Data Camp projects (Python)
-I have been taking many [Data Camp][dc] courses for the last 18 months. These are all the projects I have completed.
+### DataCamp projects (Python)
+I have taken many [Data Camp][dc] courses. These are all the projects I have completed.
 
 * Data Manipulation
 * Data Visualization
@@ -103,7 +102,7 @@ I have been taking many [Data Camp][dc] courses for the last 18 months. These ar
 ---
 
 ### White wine & red wine (Python)
-There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of a wine as graded by experts, using the physicochemical properties of the wine in the data set.
+There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of wine as graded by experts, using the physicochemical properties of the wine in the data set.
 
 * Regression
 * Regularized Regression, Random Forest, Gradient Boosting

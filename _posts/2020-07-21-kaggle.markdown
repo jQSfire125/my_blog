@@ -4,17 +4,17 @@ title:  "Kaggle"
 date:   2020-07-21 16:33:01 -0500
 categories: machine learning
 ---
-I have started taking the courses at [Kaggle][kaggle]. It is an amazing website. Thank you Google for keeping it free.
+I have started taking the courses at [Kaggle][kaggle]. It is a fantastic website. Thank you, Google, for keeping it free.
 
-At first, I was intimidated by how fast they jump into machine learning, building a model in the first lesson of the first course. It goes really fast, but I think that it is very useful to start getting used to the concepts, and then I can go deeper in other courses, or by practicing in the competitions. 
+At first, I was intimidated by how fast they jumped into machine learning, building a model in the first lesson of the first course. It goes quickly, but I think it is beneficial to start getting used to the concepts, and then I can go deeper in other classes or practice in the competitions. 
 
 I was also watching a video by [Joma Tech][joma] where he talks about the whole data science pipeline, what he calls the Data Science Hierarchy of Needs:
 
 ![Data Science Hierarchy of Needs](/my_blog/assets/images/dshierarchy.png)
 
-It is about how the job of a data scientist / analyst / engineer can mean many different things in different companies, and how there is often times a disconnect between what is talked about in data science articles or videos, and what the requierements of a company actually are.
+It is about how the job of a data scientist/analyst/engineer can mean many different things in different companies and how there is often a disconnect between what you see in data science articles or videos and the company's requirements.
 
-In a different video, [Krish Naik][krish] talks about his version of the data science ecosystem. It really helped me to get an overview, to see which areas I am attacking in my learning, and what other areas/tools I will need to focus on in the future. Here is his list:
+In a different video, [Krish Naik][krish] talks about his version of the data science ecosystem. It helped me get an overview, see which areas I am attacking in my learning, and what other topics/tools I will need to focus on in the future. Here is his list:
 
 * Programming Language
     * Python

@@ -8,18 +8,18 @@ categories: about
 
 My name is Rogelio Montemayor.
 
-I was born and raised in Mexico. I am 45 years old. I studied civil engineering at Monterrey Tech (ITESM) in Mexico, then worked for BCG, a management consulting company, and then went on to get an MBA at the Stanford Graduate School of Business. 
+I am 45 years old. I was born and raised in Mexico. I studied civil engineering at Monterrey Tech (ITESM) in Mexico, then worked for BCG, a management consulting company, and then went on to get an MBA at the Stanford Graduate School of Business. 
 
-Since then I have worked in real estate, mining, and energy. I am currently the CEO of a private natural gas producer in Mexico I co-founded. It is a small company of about 80 employees.
+Since then, I have worked in real estate, mining, and energy. I am currently the CEO of a private natural gas producer in Mexico I co-founded. It is a small company with about 80 employees.
 
-During the MBA, I remember talking to the younger brother of a college friend who was studying computer science at Stanford. I told him that I thought what he was doing was very cool, that I might give it a try. He said: "you are too old". I believed him, thought maybe in another life.
+During the MBA, I remember talking to the younger brother of a college friend who was studying computer science at Stanford. I told him that I thought what he was doing was very exciting and might give it a try. He said: "you are too old." I believed him and thought maybe in another life.
 
 Now -almost 20 years later- I find myself rethinking that belief. 
 
 I have decided that I will take advantage of the changes brought on by the Covid-19 pandemic, plus some personal opportunities, and re-start my career with a deeper focus on data and analytics.
 
-A couple days ago I received an email inviting me to sign up for an online and free version of CS106A, the iconic undergrad introductory computer science course at Stanford. 
+A couple of days ago, I received an email inviting me to sign up for an online and free version of CS106A, the iconic undergrad introductory computer science course at Stanford. 
 
-I have always loved learning, computers, and solving thought problems. I am at a stage in my life where I want to focus more on what I want to do and what I enjoy doing, than on a title or a salary. 
+I have always loved learning, computers, and solving thought problems. I am at a stage in my life where I want to focus more on what I want to do, what I enjoy doing than on a title or a salary. 
 
-#### I am very happy to start this new path!
+#### I am thrilled to start this new path!

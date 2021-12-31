@@ -6,14 +6,14 @@ categories: update
 ---
 Besides the CS50 Course, I started another course in edX.
 
-Is the first of a series of courses provided by Microsoft. It is called "Logic and Computational Thinking".
+It is the first of a series of courses provided by Microsoft. It is called "Logic and Computational Thinking."
 
-I find it a little bit too theoretical, but it has been very intersting to learn more about Socrates, Plato and Aristotle.
+I find it a little bit too theoretical, but learning more about Socrates, Plato, and Aristotle has been fascinating.
 
-It is incredible to see how much western thinking (philosophy, science, politics, etc.) has been influenced by these 3 men.
+It is incredible to see how these three men have profoundly influenced western thinking (philosophy, science, politics, etc.).
 
 How true what Socrates thought:
 
 > I know that I know nothing
 
-I also took two other short courses in Python on LinkedIn learning. I really enjoyed them.
+I also took two other short courses in Python on LinkedIn learning. I enjoyed them.

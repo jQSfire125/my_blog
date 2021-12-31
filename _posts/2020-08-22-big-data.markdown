@@ -4,28 +4,27 @@ title:  "Big Data"
 date:   2020-08-22 10:19:35 -0500
 categories: big data
 ---
-I recently watched a webinar hosted by [We Cloud Data](https://weclouddata.com) on Big Data. I still have a lot to learn, but it helped seeing the whole ecosystem in one slide together with some examples of how the frameworks handle distributed storage and fault tolerance. I took a screenshot of their description of the Big Data Ecosystem:
+I recently watched a webinar hosted by [We Cloud Data](https://weclouddata.com) on Big Data. I still have a lot to learn, but it helped to see the whole ecosystem in one slide together with some examples of how the frameworks handle distributed storage and fault tolerance. I took a screenshot of their description of the Big Data Ecosystem:
 
 ![Big Data Ecosystem](/my_blog/assets/images/bigdata.png)
 
-It was reassuring to hear that it is not necessary to master all infrastructure providers. One can just focus on one provider and learning the other ones will be straightforward from there.
+It was reassuring to hear that it is not necessary to master all infrastructure providers. One can focus on one provider, and learning the other will be straightforward.
 
-On the courses side, I am currently taking the following ones:
+On the learning side, I am currently taking the following courses:
 
 * DataCamp Data Scientist with Python.   
 I have completed 12 courses and have 11 more to go.
 * CS50 on edX.  
 I am working on Problem Set 5. I have neglected it a bit lately, but I can still finish by December
 * Kaggle.  
-4 courses down, 11 to go.
+Four courses down, eleven to go.
 * HarvardX Professional Certificate in Data Science.  
 I am about to finish the second course out of nine.
 	
-By December, I think I will be able to finish both of my DataCamp's career tracks: Data Scientist With Python and Machine Learning With Python. I also plan to have finished all the Kaggle courses and CS50.
+By December, I think I will be able to finish both of my DataCamp career tracks: Data Scientist With Python and Machine Learning With Python. I also plan to have completed all the Kaggle courses and CS50.
 
-As for the [HarvardX Professional Certificate in Data Science][dscert], there are a total of 9 courses and, if I continue at my current rate, I will finish by December. But maybe some of the future courses will get harder and maybe push completion to next year. It is still great because on the website it says it takes 17 months, and I believe I will finish in seven or eight.
+As for the [HarvardX Professional Certificate in Data Science][dscert], there are a total of 9 courses and, if I continue at my current rate, I will finish by December. It is still great because on the website, it says it takes 17 months, and I believe I will finish in seven or eight. But maybe some of the future courses will get harder and maybe push completion to next year.
 
-I also want to share that I submitted the paperwork for my Green Card in July. With everything goig on right now it is hard to tell how long it will take, so I'll just have to wait patiently and see how it goes. Wish me luck!
+I also want to share that I submitted the paperwork for my Green Card in July. With everything going on right now, it is hard to tell how long it will take, so I'll have to wait patiently and see how it goes. Wish me luck!
 
 [dscert]: https://www.edx.org/professional-certificate/harvardx-data-science
- 

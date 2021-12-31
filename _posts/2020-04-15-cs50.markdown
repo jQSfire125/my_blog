@@ -4,13 +4,13 @@ title:  "CS50, the starting point"
 date:   2020-04-15 21:29:47 -0500
 categories: update
 ---
-Well, It turns out CS106A was **80x** oversubcribed. They were expecting a few hundred to a thousand people to apply and they got over 80,000. Wow!
+Well, It turns out CS106A was **80x** oversubscribed. They expected a few hundred to a thousand people to apply, and they got over 80,000. Wow!
 
-On the website explaining this, they are suggesting to take Harvard's [CS50][cs50] on [edX][edx] as an alternative, for those of us who did not get in. 
+On the website explaining this, they are suggesting to take Harvard's [CS50][cs50] on [edX][edx] as an alternative for those of us who did not get in. 
 
-So I joined and I have to say that CS50 is an amazing course. Professor Malan is a rockstar!! 
+So I joined, and I have to say that CS50 is a fantastic course. Professor Malan is a rockstar!! 
 
-I don't know what I am missing by not being able to get into CS106A, but I am very happy to be in this course. It is definitely the starting point of my journey.
+I don't know what I am missing by not getting into CS106A, but I am thrilled to be in this course. It is the starting point of my journey.
 
 I will learn C, Python, and SQL. Then choose between building a web app, building an app in either Android or iOS, or creating a game. 
 

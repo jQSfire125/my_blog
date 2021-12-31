@@ -4,21 +4,23 @@ title:  "RM Masters"
 date:   2020-07-05 17:03:11 -0500
 categories: update
 ---
-Ok. So the biggest thing in the back of my mind all this time is what was the best way to master these skills in the most effiecient way and taking into account the limitations I have (full time job, family obligations, etc.)
+Ok. So the thing in the back of my mind is to find the best way to master these skills most efficiently considering the limitations I have (full-time job, family obligations, etc.)
 
-One possibility is to take some time off and do a full-time bootcamp, or do a part-time one. 
+One possibility is to take some time off and do a full-time Bootcamp or a part-time one. 
 
-Another path is to enroll in a Masters degree, there are plenty online that seem really good.
+Another path is to enroll in a master's degree.
 
-All this time I have been making a list of all the cool things I want to eventually learn. It is getting pretty long by now.
+All this time, I have been making a list of all the cool things I want to learn eventually. It is getting pretty long.
 
-I just watched a video by Daniel Bourke, where he describes his personal path and how instead of spending tens of thousands of dollars in a rigid Masters that may or may not suit his needs, or even just thousands in a bootcamp, he created a list of courses and books that together form the syllabus for what he calls the Daniel Bourke [Masters Degree][danbourke].
+I just watched a video by Daniel Bourke, where he describes his path. Instead of spending tens of thousands of dollars on a rigid master's degree that may not suit his interests or even thousands in a Bootcamp, he chose a different path.
 
-I completely agree with him. There are just so many good courses and resources online, some free and some with a small cost, that it makes a lot more sense to assemble your own degree, especially if you are good at staying motivated and enjoy learning.
+He created a list of courses and books that together form the syllabus of the Daniel Bourke [Masters Degree][danbourke].
 
-So, I have decided that this is going to be my path. I hereby present to you the:
+I completely agree with him. There are just so many good courses and resources online, some free and some with a small cost, that it makes a lot more sense to assemble your degree, especially if you are good at staying motivated and learning.
 
-#### Rogelio Montemayor's Masters Degree in Data Science and Machine Learning:
+So, I have decided that this is going to be my path. I now present to you:
+
+#### Rogelio Montemayor's Master's Degree in Data Science and Machine Learning:
 
 * Main Courses:
 * Foundations
@@ -37,7 +39,7 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* Google Machine Learning Crash Course
 	* Fast.ai Machine Learning Course
 	* UM Applied Data Science with Python on Coursera
-	* Andrew Ng’s Machine Learning on Coursera
+	* Andrew Ng's Machine Learning on Coursera
 	* Udacity Deep Learning Nanodegree Foundations
 	* CS50's Introduction to Artificial Intelligence with Python on edX
 	* Udacity Artificial Intelligence Nanodegree
@@ -51,7 +53,7 @@ So, I have decided that this is going to be my path. I hereby present to you the
 	* Khan Academy Linear Algebra
 	* Khan Academy Calculus and Multivariable Calculus
 	* 3blue1brown series 
-	* Math for Machine Learning on Cursera
+	* Math for Machine Learning on Coursera
 * Books
 	* Take control of the Mac Command Line with Terminal
 	* Information Theory, Inference and Learning Algorithms by David MacKay
@@ -68,8 +70,6 @@ So, I have decided that this is going to be my path. I hereby present to you the
 
 ***Bold means completed**
 
-This blueprint can be expanded and modified, and that is what will happen as I finish courses and keep learning.. It is great to finally have a roadmap for this journey!
+Undoubtedly, this blueprint will change as I finish courses and keep learning. It is great to have a roadmap for this journey!
 
 [danbourke]: https://www.mrdbourke.com/aimastersdegree/
-
- 

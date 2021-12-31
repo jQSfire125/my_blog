@@ -4,36 +4,36 @@ title:  "Capstone Projects"
 date:   2021-06-27 19:15:22 -0500
 categories: machine learning
 ---
-I am very happy to report I have finished my pending capstone projects.
+I am pleased to report I have finished my pending capstone projects.
 
 I started with a practice project for [Elite Data Science][eds]. Before choosing the final capstone project, I applied the methodology taught in the course on the [Wine Quality][redwine] data set I found at the UC Irvine Machine Learning [repository][uci].
 
-There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of a wine as graded by experts, using the physicochemical properties of the wine in the data set.
+There are two data sets, one for white wine (4,898 wines) and one for red wine (1,599 wines). The goal is to create a model that estimates the subjective rating of wine as graded by experts, using the physicochemical properties of the wine in the data set.
 
 Here are my practice projects:
 
 * [White Wine][white]
 * [Red Wine][red] 
 
-Then, I had to choose a data set for the final project. I chose a credit card fraud data set I found in [Kaggle][ccfraud]. This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
+Then, I had to choose a data set for the final project. I decided on a credit card fraud data set I found in [Kaggle][ccfraud]. This data set includes over 280,000 credit card transactions made in September 2013 by European cardholders.
 
-The goal is to predict whether a transaction is fraudulent or not based on the 30 variables provided. Most of the variables are the principal components obtained with PCA of the original data.
+The goal is to predict whether a transaction is fraudulent or not based on the 30 variables provided. Most of the variables are the principal components obtained with the PCA of the original data.
 
 Here is my capstone project for EDS:
 
 * [ULB Credit Card Fraud][edscc] 
 
-I received my **Machine Learning Accelerator** certificate a couple days later. Again, I wholeartedly recommend this course. It was great!
+I received my **Machine Learning Accelerator** certificate a couple of days later. It was great! Again, I wholeheartedly recommend this course.
 
-After that, I moved on to HarvardX. We had to submit two capstone projects. The first one was a movie recommendation system using the [MovieLens][movielens] data set.
+After that, I moved on to HarvardX. We had to submit two capstone projects. The first was a movie recommendation system using the [MovieLens][movielens] data set.
 
-This data set contains 10 million ratings of more than 10,000 movies given by about 70,000 users. This was a guided project where we were provided some of the code to set up the data set and we based the recommendation system on an example we worked on in the course series.
+This data set contains 10 million ratings of more than 10,000 movies given by about 70,000 users. It was a guided project where we were provided some code to set up the data set and based the recommendation system on an example we worked on in the course series.
 
-Our job was to expand on the code and create a whole project, ending with a pdf report. This is my version of the project in [GitHub][jQSmovie]:
+Our job was to expand the code and create a whole project, ending with a pdf report. Here is my version of the project in [GitHub][jQSmovie]:
 
 * [MovieLens movie recommendation system][gitmovie]
 
-We were free to choose the second project. I chose to use the same credit card fraud data set, but this time coded in R. The EDS project was done in Python and I wanted to compare between the two. I am much better in Python, and I had to learn some things to complete the project.
+We were free to choose the second project. I decided to use the same credit card fraud data set, but this time coded in R. The EDS project was done in Python, and I wanted to compare the two. I am much better at Python, and I learned several things to complete the project.
 
 Here is my capstone project in [GitHub][jQScc]:
 
@@ -42,9 +42,9 @@ Here is my capstone project in [GitHub][jQScc]:
 With these two submissions, I have now completed the [HarvardX 
 Professional Certificate in Data Science][harvardXcert]. 
 
-On the edX website it says the complete Certificate takes 17 months. I finished in 11. It was a fun experience. 
+On the edX website, it says the complete Certificate takes 17 months. I finished in 11. It was a fun experience. 
 
-I will now start the process to get certified in Data Science by [Data Camp][dc]. To earn [certification][dccert], one has to pass 6 timed assessments, a coding challenge, and submit a case study. Once certified, you get access to their career services team.
+I will now start getting certified in Data Science by [DataCamp][dc]. To earn [certification][dccert], one must pass six timed assessments, a coding challenge, and submit a case study. Once certified, you get access to their career services team.
 
 These are my assessment results up to now:
 
@@ -57,7 +57,7 @@ These are my assessment results up to now:
 |Machine Learning Fundamentals | 95% |
 |Python Programming| 59% |
 
-I need to finish a couple more courses in SQL and statistics to be able to take those assessments. I also need to raise my score in the Machine Learning and Python Programming assessments to get to the score required by Data Camp.
+I need to finish a couple more courses in SQL and statistics to take those assessments. I also need to raise my score in the Machine Learning and Python Programming assessments to get to the score required by DataCamp.
 
 #### I will then be able to call myself Data Scientist ;)
 
