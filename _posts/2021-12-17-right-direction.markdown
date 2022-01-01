@@ -5,7 +5,7 @@ date:   2021-12-17 19:08:14 -0500
 categories: update
 ---
 
-Today my boss delivered great news: my contract will be extended for three more months!
+Yesterday my boss delivered great news: my contract will be extended for three more months!
 
 For me, this is a special moment. These past five weeks have been my first in a new role, in a new industry, in a new country, working in a different language and culture.
 
