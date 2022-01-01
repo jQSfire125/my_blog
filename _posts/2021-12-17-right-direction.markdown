@@ -13,7 +13,8 @@ It is a lot of change, and finding out they like me enough to extend my contract
 
 I now have the opportunity to keep learning and gaining experience with an extraordinary and friendly group of people.
 
-While in this role, it has become clear how much it is for me to learn still. 
-I am starting to research data science master's degrees online. The University of Texas at Austin offers [this program][ut]. I think I will enroll to start in the fall of 2022.
+This new role has made evident how much more I still have to learn. 
+
+I am starting to research data science master's degrees online. The University of Texas at Austin offers [this program][ut]. I think I might enroll to start in the fall of 2022.
 
 [ut]: https://ms-datascience.utexas.edu
