@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Scientist Professional"
+title:  "Professional Data Scientist"
 date:   2021-08-09 18:29:42 -0500
 categories: update
 ---
@@ -47,7 +47,7 @@ Earning this certificate caps 16 months of work. Below is a summary of the main 
 |Jul 2021 | Finished SQL Fundamentals [Skill Track][sqlst] |
 |Jul 2021 | Finished Python Programming [Skill Track][ppst] |
 |Aug 2021 | Finished Statistics Fundamentals [Skill Track][sfst] |
-|Aug 2021 | Earned Data Scientist Professional [Certification][dsp] |
+|Aug 2021 | Earned Professional Data Scientist [Certification][dsp] |
 
 To date, I have completed **65 courses** and earned **370,000+ XP points** in DataCamp. There is considerable overlap in some career tracks. I can finish the Data Analyst, and Python Programmer career tracks with just a few more courses. I will do just that soon.
 
