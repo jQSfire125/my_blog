@@ -7,7 +7,7 @@ categories: update
 
 **Two years ago**, I started this journey into data. I am incredibly grateful that I have had the opportunity to be here, learning and meeting so many interesting people. Every day I feel more confident as I look forward, humbled and full of expectation, to all that is left to learn.
 
-A few weeks ago, I started learning to analyze user behavior using [Heap][Heap]. It is a great tool! It is remarkable how much information gets captured about how users interact with the site. I built my first dashboard, and I will keep trying to gain deeper insights into how our users interact with Competitions, our conversion rates, engagement drivers, etc. 
+A few weeks ago, I started using [Heap][Heap] to analyze user behavior. It is a great tool! It is remarkable how much information gets captured about how users interact with the site. I built my first dashboard, and I will keep trying to gain deeper insights into how our users interact with Competitions, our conversion rates, engagement drivers, etc. 
 
 One of the projects I am working on is competitions where a company donates the challenge. We start from a data science problem they solved or one in their backlog. Then, we generate an anonymized dataset as close to the real thing as possible. Next, we load it on our platform and have thousands of learners try to solve it. 
 
