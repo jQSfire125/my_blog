@@ -9,7 +9,7 @@ categories: update
 
 A few weeks ago, I started using [Heap][Heap] to analyze user behavior. It is a great tool! It is remarkable how much information gets captured about how users interact with the site. I built my first dashboard, and I will keep trying to gain deeper insights into how our users interact with Competitions, our conversion rates, engagement drivers, etc. 
 
-One of the projects I am working on is competitions where a company donates the challenge. We start from a data science problem they solved or one in their backlog. Then, we generate an anonymized dataset as close to the real thing as possible. Next, we load it on our platform and have thousands of learners try to solve it. 
+One of the projects I am working on is competitions where a company donates the challenge. We start from a data science problem they solved or one in their backlog, and we generate an anonymized dataset as close to the real thing as possible. We then load it on our platform and have thousands of learners try to solve it. 
 
 Some participants might imagine an innovative approach to the problem, which is valuable to the company that donated the challenge. But most importantly, thousands of students get to practice and sharpen their skills on real-world data science problems —a real win-win. 
 
