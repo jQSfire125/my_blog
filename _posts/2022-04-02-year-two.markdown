@@ -15,7 +15,7 @@ Some participants might imagine an innovative approach to the problem, which is 
 
 I also want to share that this month, I passed 500,000 in [XP] on [DataCamp][DC]! Eighty courses down, many, many more to go. Thank you, DataCamp, for making all this knowledge accessible to so many people. 
 
-I am starting to lean towards learning more and more about data engineering and analytics engineering. We'll see where this takes us to.
+I am starting to lean towards learning more and more about data engineering and analytics engineering. We'll see where this takes us.
 
 #### Thankful and excited for what is to come.
 
