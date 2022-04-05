@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Year Two"
+date:   2022-04-06 18:48:52 -0500
+categories: update
+---
+
+**Two years ago**, I started this journey into data. I am incredibly grateful that I have had the opportunity to be here, learning and meeting so many interesting people. Every day I feel more confident as I look forward, humbled and full of expectation, to all that is left to learn.
+
+A few weeks ago, I started learning to analyze user behavior using [Heap][Heap]. It is a great tool! It is remarkable how much information gets captured about how users interact with the site. I built my first dashboard, and I will keep trying to gain deeper insights into how our users interact with Competitions, our conversion rates, engagement drivers, etc. 
+
+One of the projects I am working on is competitions where a company donates the challenge. We start from a data science problem they solved or one in their backlog. Then, we generate an anonymized dataset as close to the real thing as possible. Next, we load it on our platform and have thousands of learners try to solve it. 
+
+Some participants might imagine an innovative approach to the problem, which is valuable to the company that donated the challenge. But most importantly, thousands of students get to practice and sharpen their skills on real-world data science problems —a real win-win. 
+
+I also want to share that this month, I passed 500,000 in [XP] on [DataCamp][DC]! Eighty courses down, many, many more to go. Thank you, DataCamp, for making all this knowledge accessible to so many people. 
+
+I am starting to lean towards learning more and more about data engineering and analytics engineering. We'll see where this takes us to.
+
+#### Thankful and excited for what is to come.
+
+[Heap]: https://heap.io
+[XP]: https://support.datacamp.com/hc/en-us/articles/360002538614-What-is-XP-and-why-do-I-need-it-
+[DC]: https://www.datacamp.com

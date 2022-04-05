@@ -7,9 +7,7 @@ categories: update
 
 Great news again! When my second contract arrived a couple of weeks ago, I found out I would be renewed not for three but six more months!! Can you believe that? I am the luckiest guy.
 
-Incredibly, I am getting paid to learn, grow as a data professional, and contribute to improving access to knowledge. 
-
-One of the best things about working at [DataCamp][dc] is that the outcome we are working for is improving the data skills of our learners.
+Incredibly, I am getting paid to learn, grow as a data professional, and contribute to improving access to knowledge. One of the best things about working at [DataCamp][dc] is that the outcome we are working for is improving the data skills of our learners.
 
 Think about scores of very bright engineers who toil daily to find more ingenious ways to nudge people to click on advertisements or collect their personal information. How is that making the world a better place? 
 
