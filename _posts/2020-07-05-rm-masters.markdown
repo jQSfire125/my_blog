@@ -30,7 +30,7 @@ So, I have decided that this is going to be my path. I now present to you:
 	* **DataCamp Data Scientist With Python Track**
 	* **DataCamp Machine Learning Scientist With Python Track**
 	* DataCamp Data Engineer with Python Track
-	* DataCamp SQL Fundamentals Skill Track
+	* **DataCamp SQL Fundamentals Skill Track**
 	* DataCamp Python Programming Skill Track
 	* **HarvardX Data Science Professional Certificate on edX**
 	* Kaggle courses 
@@ -55,7 +55,7 @@ So, I have decided that this is going to be my path. I now present to you:
 	* 3blue1brown series 
 	* Math for Machine Learning on Coursera
 * Books
-	* Take control of the Mac Command Line with Terminal
+	* **Take control of the Mac Command Line with Terminal**
 	* Information Theory, Inference and Learning Algorithms by David MacKay
 	* An introduction to Statistical Learning by James G., Witten D., et al.
 	* Naked Statistics by Charles Wheelan

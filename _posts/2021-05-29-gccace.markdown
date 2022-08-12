@@ -6,7 +6,7 @@ categories: big data
 ---
 Take a look at this beauty:
 
-![Google Cloud Certified ACE](/my_blog/assets/images/ggcace.png)
+![Google Cloud Certified ACE](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33000533)
 
 I took the Associate Cloud Engineer certification test two days ago and passed! Google emailed me last night with the link to my [certificate][cert]. I am over the moon!
 
