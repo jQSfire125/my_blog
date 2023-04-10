@@ -19,7 +19,7 @@ I am helping with some Python scripts to implement the [Erlang formula C]. This 
 
 It is a bit scary to be in the standup meetings with them. What if they find out I am not as good as they think? ;)
 
-###I am very grateful to have the opportunity to keep learning.
+#### I am very grateful to have the opportunity to keep learning.
 
 [Product Pair]: https://www.productpair.co
 [Erlang formula C]: https://en.wikipedia.org/wiki/Erlang_(unit)#Erlang_C_formula
