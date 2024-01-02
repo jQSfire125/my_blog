@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "dbt"
+date:   2022-08-13 08:22:15 -0500
+categories: update
+---
+
+My participation in the workforce management project has ended (I left after phase 1 of the project, as it was hard to do both this and DataCamp). The last week was complicated because I was on vacation in a different time zone, and it was challenging to keep up. I am proud of our progress in phase I, and the client seemed very happy with the results. I want to thank again Ray, Greg, and Robin for all their help and encouragement.
+
+On the DataCamp side, I convinced a B2B client to lend us a real dataset for a competition. The data is anonymized and transformed, but the underlying relationships are real. Hopefully, the winning entries will help them find innovative solutions to their real-life issue; plus, it makes for a great competition. I'm thrilled about it.
+
+I just signed up for a dbt with [CoRise]. I want to understand how it works. The best part of the course is that you get practical experience using dbt on a Snowflake instance. You run the models, they modify the database directly, create tables, and transform the data. 
+
+It is cool that they also use [gitpod] to organize the environments for students, which is impressive! I can remember how hard it was to set up on my own. I love how gitpod makes everything a lot easier.
+
+Last month I found out my contract will be renewed for a year! This is amazing; my contract will now auto-renew (no more wondering what is next), and I am officially invited to the company's offsite in Athens!! Woohoo!!
+
+#### Thankful and excited for what is to come.
+
+[CoRise]: https://corise.com/course/analytics-engineering-with-dbt
+[Snowflake]: https://www.snowflake.com/en/data-cloud/platform/
+[gitpod]: https://www.gitpod.io
+[heap]: https://www.heap.io
