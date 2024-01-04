@@ -5,7 +5,7 @@ date:   2022-10-22 19:11:06 -0500
 categories: big data
 ---
 
-The dbt course with [CoRise] is coming to a close, I learned a lot and feel more confident with dbt. I enjoyed the hands-on approach. Thank you, Jake Hannan, for all your help.
+The dbt course with [CoRise] is coming to a close, I learned a lot and feel more confident using dbt. I enjoyed the hands-on approach. Thank you, Jake Hannan, for all your help.
 
 After the great news about my contract, I am happy to share that I have started transitioning to the analytics team. I will be helping as a data analyst, officially beginning in January.
 
