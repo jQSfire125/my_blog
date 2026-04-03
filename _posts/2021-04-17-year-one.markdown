@@ -2,7 +2,7 @@
 layout: post
 title:  "Year One"
 date:   2021-04-17 19:22:44 -0500
-categories: machine learning
+categories: update
 ---
 This month marks the **one year** anniversary of this journey. It is incredible how much I have learned!! I am thrilled and grateful that I had the opportunity to start down this path. Every day I am more confident that it will get done, that I will be good at this one day -little by little.
 

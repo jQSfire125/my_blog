@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning Scientist"
 date:   2021-02-25 17:11:27 -0500
-categories: machine learning
+categories: update
 ---
 
 Today I finished the Machine Learning Scientist with Python Career track in DataCamp: 23 courses and an estimated 93 hours of instruction. It took me five months. Done!

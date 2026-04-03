@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Lisbon"
+date:   2023-11-11 13:08:45 -0500
+categories: update
+---
+
+Last month I flew to Lisbon for DataCamp Connect, and I have to say -it was amazing. The city is beautiful, the food is incredible, and the team gatherings keep getting better. What surprised me the most was how different it felt compared to Athens last year. In Athens, I was nervous the whole time, trying to figure out where I fit in. In Lisbon, I felt a lot more comfortable. I knew people, I understood the conversations, I could contribute. That shift did not happen overnight, and it' s not complete, but noticing it was a great feeling.
+
+November also marks two years at [DataCamp]. Two years! When I started, I was helping with competitions and could barely keep up with git. Now I am cleaning up content dashboards in [Looker], building Translations ARR tables, and doing sales demos in Spanish for clients. The work has changed, and so have I.
+
+I am still learning every day -that has not changed and probably never will. But there is a difference between feeling lost and feeling challenged. I have moved from one to the other, and that feels like real progress.
+
+I am grateful for this team and for the opportunity to keep growing. Hats off to everyone who makes DataCamp such a great place to work.
+
+#### Two years in, and I am just getting started.
+
+[DataCamp]: https://www.datacamp.com
+[Looker]: https://cloud.google.com/looker

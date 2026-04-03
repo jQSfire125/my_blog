@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Madrid"
+date:   2024-11-16 10:15:32 -0500
+categories: update
+---
+
+Last month I flew to Madrid for [DataCamp Connect][connect]. It was my third offsite, and something felt different this time. I was not just there to observe and absorb -I was there as a contributing member of the team. It is hard to explain, but Madrid was when it clicked for me. I am starting to feel like I truly belong here.
+
+November marks **three years** at DataCamp. When I wrote my last post in December 2022, I said I hoped to stop being a burden. I have to be honest, it took a while, but I think I have gotten there. I am no longer the person who understands less than half of what is being discussed. I still have a lot to learn, but now it feels like I am learning from a position of strength rather than survival.
+
+At work, I have been building CS reporting for our biggest clients and working on [NPS][nps] analysis in [DataLab][datalab] notebooks. I added language features to the Learn Mart (the user's language and the content language), which was a fun challenge. It is cool to see your work show up in reports that our stakeholders actually use.
+
+I also started a personal Development Plan. I am taking more DataCamp courses -Plotly, Cloud Computing, Git- and preparing for the Data Engineering certification. Little by little, I am filling in the gaps. The difference now is that I know which gaps to fill, because I have seen them in my daily work.
+
+I am so grateful for this team. Pieter, Sara, John, Jaime, Dennis -they have been incredibly patient and generous with their time. Three years in, and I still learn something new from them every week. That is the mark of a great team.
+
+Madrid was beautiful. But more than the city, what I will remember is the feeling of walking into a room full of colleagues and thinking: I am one of them.
+
+#### Three years in, and the journey is just getting started.
+
+[connect]: https://www.datacamp.com
+[nps]: https://en.wikipedia.org/wiki/Net_promoter_score
+[datalab]: https://www.datacamp.com/datalab

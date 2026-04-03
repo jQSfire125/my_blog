@@ -2,7 +2,7 @@
 layout: post
 title:  "NLP"
 date:   2020-11-15 18:22:26 -0500
-categories: machine learning
+categories: update
 ---
 I started an introductory NLP course on [DataCamp][datacamp]. It is part of the Machine Learning Scientist with Python track.
 

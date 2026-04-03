@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Leuven"
+date:   2024-02-10 14:22:07 -0500
+categories: update
+---
+
+A couple of weeks ago, I was back in Leuven for my second hackathon at the [DataCamp] office. The contrast with the first time was striking. Last April, I struggled to keep up and spent most of my time trying to understand what was going on. This time, I came in with ideas, contributed to the discussions, and built something I was proud of. It is one thing to be told you are improving. It is another thing to feel it.
+
+At work, the past few months have been intense in the best way. I have been working on a major rebuild of the Learn Mart -creating metrics tables for Learn Product, NPS, Certifications, and Competitions. It is the most complex technical work I have done so far, and it has pushed me to get much better at [dbt] and SQL. I have also been building Looker explores and dashboards, migrating old [Metabase] dashboards to Looker, and I just finished a Dashboard to track B2B Activity.
+
+On top of that, I continue doing sales calls in Spanish which is always a nice change of pace from the analytical work. It is cool that my background is useful in ways I did not expect when I started this path.
+
+Looking back, the distance between where I was and where I am now is becoming more visible. The hackathon was the clearest proof of that. Same city, same office, very different experience.
+
+I am grateful for every challenge that has pushed me forward and for every teammate who has helped me along the way.
+
+#### The progress is real. Let's see how it goes.
+
+[DataCamp]: https://www.datacamp.com
+[dbt]: https://www.getdbt.com
+[Metabase]: https://www.metabase.com

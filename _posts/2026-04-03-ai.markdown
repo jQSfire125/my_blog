@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "AI"
+date:   2026-04-03 20:47:33 -0500
+categories: update
+---
+
+Over the past month, my work has changed more than it did in the previous four years. We started using [Claude Code][claude] -an AI coding assistant- and I have to say, it is scary how good it is. I use it every day now. It helps me write SQL, review dbt models, draft documentation, and think through data modeling decisions. Things that used to take me hours now take minutes. It is like having the most patient, knowledgeable colleague sitting right next to you, available at any time. She (I like to think Claude is female because how good she is) can be a bit too confident sometimes, but the skills are just mind blowing to be honest.
+
+Just when I was starting to feel like I had the hang of this analytics engineering thing, the ground is shifting underneath me. The role I spent years growing into is changing drastically. AI is not a tool you use on the side anymore -it is becoming central to how the work gets done. That is both exciting and a little terrifying. I would be lying if I said I do not wonder sometimes whether we will all be replaced in the next few years.
+
+But then I think about my journey. Six years ago, I didn't know what Data Science was. Four years ago, I did not know what a CTE was. And here I am, leading projects, planning migrations, and now learning to work alongside AI. If there is one thing this path has taught me, it is that the ability to adapt is more valuable than any specific skill.
+
+On a different note, the hackathon in Leuven is coming up in a couple of weeks. This will be my fourth one. From struggling to keep up in 2023 to leading a team in 2025 -I wonder what this one will bring. Also, they just announced that [DataCamp Connect][connect] this year will be in Istanbul! I am thrilled. Time to fire up [Duolingo] and learn some Turkish =)
+
+I am grateful for this moment, even with all its uncertainty. The world is changing fast, and I am lucky to be in a position where I get to learn and adapt in real time, surrounded by a fantastic team.
+
+#### The only constant is change. And I have never been afraid of that.
+
+[claude]: https://claude.ai
+[connect]: https://www.datacamp.com
+[Duolingo]: https://www.duolingo.com

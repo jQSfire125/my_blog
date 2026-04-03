@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning Frameworks"
 date:   2020-08-04 21:45:19 -0500
-categories: machine learning
+categories: update
 ---
 I attended a webinar by this company called [Databricks](https://databricks.com), and I have to be honest, I was a bit lost in some parts. But I made this table that helps me get an overview of machine learning frameworks:
 

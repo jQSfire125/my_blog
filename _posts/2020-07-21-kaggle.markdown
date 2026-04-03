@@ -2,7 +2,7 @@
 layout: post
 title:  "Kaggle"
 date:   2020-07-21 16:33:01 -0500
-categories: machine learning
+categories: update
 ---
 I have started taking the courses at [Kaggle][kaggle]. It is a fantastic website. Thank you, Google, for keeping it free.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "About Me"
 date:   2020-04-01 19:15:10 -0500
-categories: about
+categories: update
 ---
 # Hello World!
 

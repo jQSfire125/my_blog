@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Cloud Certified Associate Cloud Engineer"
 date:   2021-05-29 13:11:06 -0500
-categories: big data
+categories: update
 ---
 Take a look at this beauty:
 

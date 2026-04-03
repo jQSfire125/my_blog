@@ -2,7 +2,7 @@
 layout: post
 title:  "Data warehouse migration"
 date:   2022-10-22 19:11:06 -0500
-categories: big data
+categories: update
 ---
 
 The dbt course with [CoRise] is coming to a close, I learned a lot and feel more confident using dbt. I enjoyed the hands-on approach. Thank you, Jake Hannan, for all your help.
@@ -11,7 +11,9 @@ After the great news about my contract, I am happy to share that I have started 
 
 Between now and then, I will continue to work on competitions as they move to a different department. 
 
-It is super exciting and scary. Everyone is so good at what they do. 
+It is super exciting and scary. Everyone is so good at what they do.
+
+Last month I flew to Athens for the company workweek. It was my first time meeting everyone in person. I have to say, it was both intimidating and incredible -seeing all these talented people in one place. I even gave a short presentation to the entire company, my first one at [DataCamp]. I was so nervous, but it went well. Athens was beautiful, and the whole experience made me even more excited about what is ahead.
 
 The first project I will be helping between now and my official start is a transition from AWS Redshift to GCP [BigQuery]. We have to adapt about 1,200 queries to the SQL dialect that BQ uses, which is mostly the same but slightly different from what RS uses. 
 
@@ -22,4 +24,5 @@ Overall, it is a step forward for the company; BigQuery will give us better perf
 #### It is very humbling to be the worst member of the team. But you have to start somewhere...
 
 [CoRise]: https://corise.com/course/analytics-engineering-with-dbt
+[DataCamp]: https://www.datacamp.com
 [BigQuery]: https://cloud.google.com/bigquery

@@ -2,7 +2,7 @@
 layout: post
 title:  "Linear Regression"
 date:   2021-01-11 09:31:26 -0500
-categories: machine learning
+categories: update
 ---
 
 It will be a short update. I just started course 7 of the HarvardX certificate program: Linear Regression.

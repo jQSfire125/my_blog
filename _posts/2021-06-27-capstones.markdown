@@ -2,7 +2,7 @@
 layout: post
 title:  "Capstone Projects"
 date:   2021-06-27 19:15:22 -0500
-categories: machine learning
+categories: update
 ---
 I am pleased to report I have finished my pending capstone projects.
 
