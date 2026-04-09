@@ -7,7 +7,7 @@ categories: update
 
 **Three years ago**, I started this journey. From those first tentative steps in April 2020 to where I am now, it is hard to believe how much has changed. I went from watching online courses in my living room to being an official data analyst at [DataCamp]. I have been in the role since January, and every day I learn something new.
 
-A couple of weeks ago, I participated in my first hackathon with the data team. Two full days of building together, all remote. I joined from Brownsville, Texas, where I was saying goodbye to my friend Alex. I have to be honest -I struggled to keep up. Justin and Ahshish move so fast, and the gap between what I know and what they know was very visible. But I loved every minute of it. There is something special about working alongside people who are better than you. It pushes you forward.
+A couple of weeks ago, I participated in my first hackathon with the data team. Two full days of building together, all remote. I joined from Texas. Had to join at 3 am my time since the team was in Belgium, but it was worth it. I have to be honest -I struggled to keep up. Justin and Ahshish move so fast, and the gap between what I know and what they know was very visible. But I loved every minute of it. There is something special about working alongside people who are better than you. It pushes you forward.
 
 Recently, I have also been busy with the [Snowplow] migration to [Heap] -replacing the old tracking system with something more robust and scalable. I have also been building our bi-weekly Learn metrics decks and keeping the NPS updates on track. The work is getting more technical, and I am very slowly finding my footing.
 
