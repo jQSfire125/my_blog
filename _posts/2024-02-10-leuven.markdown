@@ -9,6 +9,8 @@ A couple of weeks ago, I was back in Leuven for my second hackathon at the [Data
 
 At work, the past few months have been intense in the best way. I have been working on a major rebuild of the Learn Mart -creating metrics tables for Learn Product, NPS, Certifications, and Competitions. It is the most complex technical work I have done so far, and it has pushed me to get much better at [dbt] and SQL. I have also been building Looker explores and dashboards, migrating old [Metabase] dashboards to Looker, and I just finished a Dashboard to track B2B Activity.
 
+In December, we launched Looker across the company. Watching teammates outside the data team open the dashboards I had been working on was a small but very rewarding moment.
+
 On top of that, I continue doing sales calls in Spanish which is always a nice change of pace from the analytical work. It is cool that my background is useful in ways I did not expect when I started this path.
 
 Looking back, the distance between where I was and where I am now is becoming more visible. The hackathon was the clearest proof of that. Same city, same office, very different experience.

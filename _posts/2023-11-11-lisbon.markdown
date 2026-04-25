@@ -7,6 +7,8 @@ categories: update
 
 Last month I flew to Lisbon for DataCamp Connect, and I have to say -it was amazing. The city is beautiful, the food is incredible, and the team gatherings keep getting better. What surprised me the most was how different it felt compared to Athens last year. In Athens, I was nervous the whole time, trying to figure out where I fit in. In Lisbon, I felt a lot more comfortable. I knew people, I understood the conversations, I could contribute. That shift did not happen overnight, and it' s not complete, but noticing it was a great feeling.
 
+A few weeks before Lisbon, I was also in London for [Looker] training. I had been doing prep courses for weeks beforehand, nervous about not keeping up. The training itself was the first time using Looker stopped feeling like guessing.
+
 November also marks two years at [DataCamp]. Two years! When I started, I was helping with competitions and could barely keep up with git. Now I am cleaning up content dashboards in [Looker], building Translations ARR tables, and doing sales demos in Spanish for clients. The work has changed, and so have I.
 
 I am still learning every day -that has not changed and probably never will. But there is a difference between feeling lost and feeling challenged. I have moved from one to the other, and that feels like real progress.

@@ -11,6 +11,8 @@ A couple of weeks ago, I participated in my first hackathon with the data team. 
 
 Recently, I have also been busy with the [Snowplow] migration to [Heap] -replacing the old tracking system with something more robust and scalable. I have also been building our bi-weekly Learn metrics decks and keeping the NPS updates on track. The work is getting more technical, and I am very slowly finding my footing.
 
+The road has a shape I did not see before -junior, data analyst, senior, lead- and even knowing the names of the steps makes the climb feel less daunting. I am also less intimidated in sprint planning, starting to recognize the tickets that feel doable.
+
 Looking back at three years, the transformation is wild. From running an energy company in Mexico to sitting in an office in Belgium, surrounded by data engineers, trying to figure out why a tracking event is not firing. I would not trade it for anything.
 
 I am grateful for every person who has been patient with me along the way. My teammates, my manager, and the people who answer my questions on Slack without making me feel like I should already know the answer. Thank you.
