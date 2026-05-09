@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+
+# Claude Code user-private settings
+.claude/settings.local.json
